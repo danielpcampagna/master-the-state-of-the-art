@@ -4,7 +4,7 @@ from ..constants import *
 from ...work.y2019 import fernández2019a
 from ...work.y2019 import fernández2019b
 
-approach = Group(
+linkedWidgets = Group(
     fernández2019a, fernández2019b,
     display="Privacy-aware Linked Widgets",
     approach_name="Privacy-aware Linked Widgets",

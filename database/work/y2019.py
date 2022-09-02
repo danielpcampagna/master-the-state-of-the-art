@@ -3,6 +3,25 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+agostinelli2019a = DB(Work(
+    2019, "Achieving GDPR compliance of BPMN process models",
+    due="Unrelated to provenance",
+    display="agostinelli",
+    authors="Agostinelli, Simone and Maggi, Fabrizio Maria and Marrella, Andrea and Sapio, Francesco",
+    place=CAiSE,
+    ID='agostinelli2019achieving',
+    category='unrelated',
+    cluster_id='6779454441181988618',
+    entrytype='inproceedings',
+    link='http://www.diag.uniroma1.it/~marrella/papers/CAiSE_Forum_2019.pdf',
+    organization='Springer',
+    pp='10--22',
+    scholar='https://scholar.google.com/scholar?cites=6779454441181988618&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='CseYKeV1FV4J',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
 araujo2019a = DB(Work(
     2019, "A utilizacao de dados pessoais sensiveis na formacao do perfil comportamental de pessoas naturais e o potencial dano aos seus titulares",
     due="Unrelated to provenance",
@@ -17,6 +36,7 @@ araujo2019a = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=14057884673132835334&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='BrJ926CjF8MJ',
     scholar_ok=True,
+    forward_steps=1,
 ))
 
 bartolini2019a = DB(Work(
@@ -40,12 +60,12 @@ bartolini2019a = DB(Work(
 
 besik2019a = DB(Work(
     2019, "Ontology-Based Privacy Compliance Checking for Clinical Workflows.",
-    due="This approach provides an ontology representing privacy principles and a model describing activities. For this research, both ontologies can be helpful since they offer concepts that can be compared with others we found in the literature. Latterly, the authors show how both ontologies can be integrated to work for assessing compliance in a specific use case.",
+    due="This paper has proposed a compliance-check architecture based on Java technologies. This system was built under three ontologies: the first proposes terms for the privacy layer, suggesting classes to GDPR (in particular, purpose specifications, data minimization, processing compliant-checking, and limit of retention period), privacy policies, and privacy preferences (when the data subjects to determine who can access their data and for what purposes). To represent the activities, this approach has inherited Business Process Model and Notation (BPMN). Finally, the last ontology contains terms of the specific clinical domain.\n\nThe authors demonstrate that this approach can check compliance through the ministration of a Java-based open source business rule management system. They show the usability of this approach in the running process, which also illustrates how these three ontologies should work together.\n\nAlthough the compliance checker was built over a specific technology (that we probably will not utilize), we have considered the privacy ontology can contribute to the objective of our study. Indeed, this privacy ontology provides concepts to represent privacy policy constraints. Such information is required to answer the obligations we have aimed to achieve.\n\nIn face of this, we have included this article to see whether the proposed model was extended to meet further obligations.",
     display="besik",
     authors="Besik, Saliha Irem and Freytag, Johann-Christoph",
     place=LWDA,
     ID='besik2019ontology',
-    category='unrelated',
+    category='ok',
     cluster_id='9953792441592462448',
     entrytype='inproceedings',
     link='https://www.researchgate.net/profile/Saliha-Besik/publication/336129066_Ontology-Based_Privacy_Compliance_Checking_for_Clinical_Workflows/links/5d90d2cb299bf10cff1a003e/Ontology-Based-Privacy-Compliance-Checking-for-Clinical-Workflows.pdf',
@@ -76,6 +96,25 @@ besik2019a = DB(Work(
 #     scholar_ok=True,
 # ))
 
+
+blanco2019a = DB(Work(
+    2019, "Using an enterprise architecture model for GDPR compliance principles",
+    due="Unrelated to provenance",
+    display="blanco",
+    authors="Blanco-Lainé, Gaëlle and Sottet, Jean-Sébastien and Dupuy-Chessa, Sophie",
+    place=IFIP,
+    ID='blanco2019using',
+    category='unrelated',
+    cluster_id='16601134074334111014',
+    entrytype='inproceedings',
+    link='https://hal.archives-ouvertes.fr/hal-02482761/document',
+    organization='Springer',
+    pp='199--214',
+    scholar='https://scholar.google.com/scholar?cites=16601134074334111014&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='JmVR6XsTY-YJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
 
 bonatti2019a = DB(Work(
     2019, "A Richer Policy Language for GDPR Compliance.",
@@ -110,6 +149,7 @@ buyle2019a = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=12412400709025252009&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='qcJBX660QawJ',
     scholar_ok=True,
+    forward_steps=1,
 ))
 
 coleti2019a = DB(Work(
@@ -156,28 +196,9 @@ curia2019a = DB(Work(
     authors="CURIA",
     place=Web,
     ID='CURIADoc43:online',
-    aliases='',
-    approach_name='',
     category='unrelated',
-    citation_file='',
-    cluster_id='',
-    doi='',
     entrytype='misc',
-    local='',
-    metakey='',
-    month='',
-    number='',
-    organization='',
-    pdfpage='',
-    pp='',
-    publisher='',
-    scholar='',
-    scholar_id='',
     scholar_ok='@misc{CURIADoc43:online,\nauthor = {CURIA},\ntitle = {CURIA - Documents},\nhowpublished = {https://curia.europa.eu/juris/document/document.jsf?docid=212023&mode=req&pageIndex=1&dir=&occ=first&part=1&text=&doclang=EN&cid=5704393},\nyear = {2019},\nnote = {(Accessed on 06/13/2022)}\n}',
-    tracking='',
-    volume='',
-    summary='',
-    link='',
     backward_steps=1,
 ))
 
@@ -203,14 +224,14 @@ davari2019a = DB(Work(
 debruyne2019a = DB(Work(
     2019, "Towards generating policy-compliant datasets",
     display="debruyne",
-    due="This approach proposes a tiny ontology to represent the activities related to the process of obtaining subject consent. The demonstration of the utility of this ontology is driven by running on a synthetic dataset the authors built. This contribution has no relation to provenance. Additionally, this ontology goals seem to be similar to GConsent, which Pandit proposes in his thesis.",
+    due="The proposed ontology seems not fully publicly available.",
     authors="Debruyne, Christophe and Pandit, Harshvardhan J and Lewis, Dave and O'Sullivan, Declan",
     place=IEEEICSC,
     ID='debruyne2019towards',
     category='unrelated',
     cluster_id='6348710661205469160',
     entrytype='inproceedings',
-    link='https://d1wqtxts1xzle7.cloudfront.net/62422050/2019-icsc-preprint20200320-112486-1pitqhq-libre.pdf?1584772522=&response-content-disposition=inline%3B+filename%3DTowards_Generating_Policy_compliant_Data.pdf&Expires=1655443994&Signature=cCywokNH0H50Ik9ieqK0AbF6CRviov~yEbbOY~t0QkN1QV6lHta-BG7cQ68-snZJDkyeJekm3pZ-7yWPmShYfzRI4nhj0A0SjfkMkBfZV9bX8~EiBYVn3iErfqT7bpODR-7SVRqVhZZMyBW-u9IGjkLdigjtws90HBzD6nqqPbT4VQko3birYE4mbVWJsmicoRYypWdj4U7Kisx3cNlh3OPKX3LOJUbVJOpBFsB5zFscOj-sgVKoTjyh3LUHuhBeZBN3~WA8awOOxkPX2Cj5DlAFOrPp4~6FBd0a9FP1GDXO4NmZQPYqICEzZpLL5kBN3CnY3nOLpnulkT2l8H0Hyg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA',
+    link='https://www.academia.edu/download/62422050/2019-icsc-preprint20200320-112486-1pitqhq.pdf',
     organization='IEEE',
     pp='199--203',
     scholar='https://scholar.google.com/scholar?cites=6348710661205469160&as_sdt=2005&sciodt=0,5&hl=en',
@@ -292,6 +313,7 @@ fernández2019a = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=4943330782496666802&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='srT34Sc9mkQJ',
     scholar_ok=True,
+    forward_steps=1,
 ))
 
 fernández2019b = DB(Work(
@@ -309,6 +331,25 @@ fernández2019b = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=13582822442266322658&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='4uZ83gvhf7wJ',
     scholar_ok=True,
+    forward_steps=1,
+))
+
+filippidis2019a = DB(Work(
+    2019, "A Blockchain-Based Platform for Consent Management of Personal Data Processing in the IoT Ecosystem",
+    due="Unrelated to provenance",
+    display="filippidis",
+    authors="Filippidis, Adam P and Rantos, Konstantinos and Papanikolaou, Alexandros and Ilioudis, Christos and Kritsas, Antonios and Drosatos, George",
+    place=Thesis,
+    ID='filippidis2019blockchain',
+    category='unrelated',
+    cluster_id='8666699689742166454',
+    entrytype='article',
+    link='http://hephaestus.nup.ac.cy/handle/11728/11753',
+    organization='Wiley',
+    scholar='https://scholar.google.com/scholar?cites=8666699689742166454&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='tukRHnNNRngJ',
+    scholar_ok=True,
+    forward_steps=1,
 ))
 
 gallé2019a = DB(Work(
@@ -328,6 +369,25 @@ gallé2019a = DB(Work(
     backward_steps=1,
 ))
 
+garcia2019a = DB(Work(
+    2019, "1st Workshop on Fairness, Accountability, Transparency, Ethics, and Society on the Web. In conjunction with The Web Conference 2019.",
+    due="Unrelated to provenance",
+    display="garcia",
+    authors="Garcia, Javier David Fernandez and Ekaputra, Fajar J and Aryan, Peb Ruswono and Azzam, Amr and Kiesling, Elmar",
+    place=FATES,
+    ID='garcia20191st',
+    category='unrelated',
+    cluster_id='8215101330332997794',
+    entrytype='incollection',
+    link='https://research.wu.ac.at/ws/files/19835652/Privacy_aware_Linked_Data_Widgets___WWW_19__Camera_Ready.pdf',
+    organization='ACM Press',
+    pp='1--6',
+    scholar='https://scholar.google.com/scholar?cites=8215101330332997794&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='olhWbCLnAXIJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
 goldsteen2019a = DB(Work(
     2019, "Forgotten@ Scale: A Practical Solution for Implementing the Right To Be Forgotten in Large-Scale Systems",
     due="Not peer-reviewed document",
@@ -342,6 +402,7 @@ goldsteen2019a = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=8712539456176012468&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='tDzycHko6XgJ',
     scholar_ok=True,
+    forward_steps=1,
 ))
 
 hasan2019a = DB(Work(
@@ -382,6 +443,23 @@ havelange2019a = DB(Work(
     backward_steps=1,
 ))
 
+jafta2019a = DB(Work(
+    2019, "A semantic tool for the protection of personal information act",
+    due="This is a positional document and does not introduce any contribution",
+    display="jafta",
+    authors="Jafta, Yahlieel and Leenen, Louise",
+    place=UnknownConference,
+    ID='jafta2019semantic',
+    category='unrelated',
+    cluster_id='11356574413878000034',
+    entrytype='article',
+    link='http://ceur-ws.org/Vol-2540/FAIR2019_paper_36.pdf',
+    scholar='https://scholar.google.com/scholar?cites=11356574413878000034&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='ovl8fEKomp0J',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
 janßen2019a = DB(Work(
     2019, "Towards a system for data transparency to support data subjects",
     due="Document not publicly available",
@@ -398,6 +476,7 @@ janßen2019a = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=15193073621556417676&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='jFQ6Y_aj2NIJ',
     scholar_ok=True,
+    forward_steps=1,
 ))
 
 joshi2019a = DB(Work(
@@ -421,6 +500,41 @@ joshi2019a = DB(Work(
     backward_steps=1,
 ))
 
+kala2019a = DB(Work(
+    2019, "Refinement of the general data protection regulation (GDPR) model: administrative fines perspective",
+    due="Unrelated to provenance",
+    display="kala",
+    authors="Kala, Kaspar",
+    place=Thesis,
+    ID='kala2019refinement',
+    category='unrelated',
+    cluster_id='114316314360277640',
+    entrytype='phdthesis',
+    link='https://core.ac.uk/download/pdf/237084765.pdf',
+    scholar='https://scholar.google.com/scholar?cites=114316314360277640&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='iOp5DRUilgEJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+leone2019a = DB(Work(
+    2019, "Frequent Use Cases Extraction from Legal Texts in the Data Protection Domain.",
+    due="Unrelated to provenance",
+    display="leone",
+    authors="Leone, Valentina and Di Caro, Luigi",
+    place=JURIX,
+    ID='leone2019frequent',
+    category='unrelated',
+    cluster_id='3349397256117784531',
+    entrytype='inproceedings',
+    link='https://iris.unito.it/bitstream/2318/1728643/1/FAIA-322-FAIA190324.pdf',
+    pp='193--198',
+    scholar='https://scholar.google.com/scholar?cites=3349397256117784531&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='04-R_g5zey4J',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
 libertés2019a = DB(Work(
     2019, "The CNIL’s restricted committee imposes a financial penalty of 50 Million euros against GOOGLE LLC",
     due="File not found",
@@ -428,28 +542,9 @@ libertés2019a = DB(Work(
     authors="Commission Nationale de l’Informatique et des Libertés",
     place=UnknownConference,
     ID='commission2019cnil',
-    aliases='',
-    approach_name='',
     category='nofile',
-    citation_file='',
-    cluster_id='',
-    doi='',
     entrytype='article',
-    local='',
-    metakey='',
-    month='',
-    number='',
-    organization='',
-    pdfpage='',
-    pp='',
-    publisher='',
-    scholar='',
-    scholar_id='',
     scholar_ok="@article{commission2019cnil,\n  title={The CNIL’s restricted committee imposes a financial penalty of 50 Million euros against GOOGLE LLC},\n  author={Commission Nationale de l’Informatique et des Libert{\\'e}s},\n  year={2019}\n}\n",
-    tracking='',
-    volume='',
-    summary='',
-    link='',
     backward_steps=1,
 ))
 
@@ -473,7 +568,7 @@ lieber2019a = DB(Work(
 
 lioudakis2019a = DB(Work(
     2019, "Compliance Ontology",
-    due="This paper repports the ontology used by the BPR4GDPR (Business Process Re-engineering and functional toolkit for GDPR compliance), an European H2020 project that aims to provide a reference compliance framework for the GDPR. This ontology is designed to collect retrospective and prospective provenance. However it lacks to provide concepts capable to represent the legal basis for a process. ",
+    due="Discarded due to the document was not publicly available. This paper reports the ontology used by the BPR4GDPR (Business Process Re-engineering and functional toolkit for GDPR compliance), a European H2020 project that aims to provide a reference compliance framework for the GDPR. This ontology is designed to collect retrospective and prospective provenance. However, it lacks provide concepts capable of representing the legal basis for a process. ",
     display="lioudakis",
     authors="Lioudakis, Georgios and Cascone, D",
     place=ARIS2,
@@ -502,7 +597,6 @@ machuletz2019a = DB(Work(
     cluster_id='9816585992241849936',
     entrytype='article',
     link='https://arxiv.org/pdf/1908.10048',
-    pdfpage='',
     scholar='https://scholar.google.com/scholar?cites=9816585992241849936&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='UKamDvOEO4gJ',
     scholar_ok=True,
@@ -525,6 +619,23 @@ mehr2019a = DB(Work(
     scholar_id='UfNOyBCRCzcJ',
     scholar_ok=True,
     backward_steps=1,
+))
+
+merscheid2019a = DB(Work(
+    2019, "Practical Combination of IT Security, Risk Management, and EU Data Protection (GDPR)",
+    due="Unrelated to provenance and ",
+    display="merscheid",
+    authors="Merscheid, Tim",
+    place=Thesis,
+    ID='merscheid2019practical',
+    category='unrelated',
+    cluster_id='438355628799429348',
+    entrytype='phdthesis',
+    link='https://www.researchgate.net/profile/Tim-Merscheid/publication/338753440_Practical_Combination_of_IT_Security_Risk_Management_and_EU_Data_Protection_GDPR/links/5e28b4114585150ee77b2af5/Practical-Combination-of-IT-Security-Risk-Management-and-EU-Data-Protection-GDPR.pdf',
+    scholar='https://scholar.google.com/scholar?cites=438355628799429348&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='5AriMx9aFQYJ',
+    scholar_ok=True,
+    forward_steps=1,
 ))
 
 mohammadi2019a = DB(Work(
@@ -562,7 +673,6 @@ pandit2019a = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=18164481854340998123&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='6yMGyQE0FfwJ',
     scholar_ok=True,
-    star='',
     summary='Consent is one of the legal basis for processing personal data under the General Data Protection Regulation (GDPR), which is the current Eurpoean data protection law enforced from 25th May 2018. GDPR stipulates obligations on how consent should be obtained, used, modified, and recorded. Additionally, it provides data subjects with the right to modify or withdraw their consent at any time. Demonstrating compliance to these rights and obligations requires maintaining information about the consent lifecycle. Existing work has demonstrated the feasibility of using semantic web technologies to represent and query this information. GConsent is an OWL2 ontology for representing consent for GDPR compliance. The ontology is based on an analysis of modelling metadata requirements related to the consent lifecycle for GDPR compliance. It allows modelling and representation of information related to compliance in an extensible and comprehensive manner.',
     start_set=True,
 ))
@@ -596,7 +706,7 @@ pandit2019c = DB(Work(
     category='unrelated',
     cluster_id='9799703764205422827',
     entrytype='inproceedings',
-    link='http://www.tara.tcd.ie/bitstream/handle/2262/91581/DPVCG___ODBASE_v2.pdf?sequence=1',
+    link='https://aic.ai.wu.ac.at/~polleres/publications/pand-etal-2019ODBASE.pdf',
     organization='Springer',
     pp='714--730',
     scholar='https://scholar.google.com.br/scholar?cites=9799703764205422827&as_sdt=2005&sciodt=0,5&hl=en',
@@ -605,6 +715,25 @@ pandit2019c = DB(Work(
     useful=True,
     not_directly_related_to_provenance=True,
     backward_steps=1,
+))
+
+pennekamp2019a = DB(Work(
+    2019, "Security considerations for collaborations in an industrial IoT-based lab of labs",
+    due="unrelated to GDPR",
+    display="pennekamp",
+    authors="Pennekamp, Jan and Dahlmanns, Markus and Gleim, Lars and Decker, Stefan and Wehrle, Klaus",
+    place=GCIoT,
+    ID='pennekamp2019security',
+    category='unrelated',
+    cluster_id='11881268964828440245',
+    entrytype='inproceedings',
+    link='https://www.mdahlmanns.de/publication/2019-pennekamp-security-considerations/2019-pennekamp-security-considerations.pdf',
+    organization='IEEE',
+    pp='1--7',
+    scholar='https://scholar.google.com/scholar?cites=11881268964828440245&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='teZ4gSy_4qQJ',
+    scholar_ok=True,
+    forward_steps=1,
 ))
 
 piras2019a = DB(Work(
@@ -631,7 +760,7 @@ pullonen2019a = DB(Work(
     due="Not publicly available",
     display="pullonen",
     authors="Pullonen, Pille and Tom, Jake and Matulevicius, Raimundas and Toots, Aivo",
-    place=SoSyM,
+    place=SSM,
     ID='pullonen2019privacy',
     category='nofile',
     cluster_id='6409572784300962227',
@@ -645,6 +774,60 @@ pullonen2019a = DB(Work(
     scholar_ok=True,
     volume='18',
     backward_steps=1,
+))
+
+rantos2019a = DB(Work(
+    2019, "A blockchain-based platform for consent management of personal data processing in the IoT ecosystem",
+    due="Unrelated to provenance",
+    display="rantos",
+    authors="Rantos, Konstantinos and Drosatos, George and Kritsas, Antonios and Ilioudis, Christos and Papanikolaou, Alexandros and Filippidis, Adam P",
+    place=JSCN,
+    ID='rantos2019blockchain',
+    category='unrelated',
+    cluster_id='4977037163942878668',
+    entrytype='article',
+    link='https://www.hindawi.com/journals/scn/2019/1431578/',
+    organization='Hindawi',
+    scholar='https://scholar.google.com/scholar?cites=4977037163942878668&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='zJ27Xu78EUUJ',
+    scholar_ok=True,
+    volume='2019',
+    forward_steps=1,
+))
+
+rantos2019b = DB(Work(
+    2019, "Research Article A Blockchain-Based Platform for Consent Management of Personal Data Processing in the IoT Ecosystem",
+    due="unrelated to GDPR",
+    display="rantos",
+    authors="Rantos, Konstantinos and Drosatos, George and Kritsas, Antonios and Ilioudis, Christos and Papanikolaou, Alexandros and Filippidis, Adam P",
+    place=JSCN,
+    ID='rantos2019research',
+    category='unrelated',
+    cluster_id='12181928461946548708',
+    entrytype='article',
+    link='https://www.academia.edu/download/64343659/1431578.pdf',
+    scholar='https://scholar.google.com/scholar?cites=12181928461946548708&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='5HGLvWTnDqkJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+reinhartz2019a = DB(Work(
+    2019, "Towards Privacy-aware Software Reuse.",
+    due="Unrelated to provenance",
+    display="reinhartz",
+    authors="Reinhartz-Berger, Iris and Zamansky, Anna and Koschmider, Agnes",
+    place=MODELSWARD,
+    ID='reinhartz2019towards',
+    category='unrelated',
+    cluster_id='1754949847576754345',
+    entrytype='inproceedings',
+    link='https://pdfs.semanticscholar.org/e451/ea2a17123c572105ebd15be5a497fc43832b.pdf',
+    pp='448--453',
+    scholar='https://scholar.google.com/scholar?cites=1754949847576754345&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='qThwl5bVWhgJ',
+    scholar_ok=True,
+    forward_steps=1,
 ))
 
 riva2019a = DB(Work(
@@ -685,6 +868,24 @@ rodrigues2019a = DB(Work(
     backward_steps=1,
 ))
 
+rodrigues2019b = DB(Work(
+    2019, "Uma abordagem ontologica para simulação de acao legal e consistencia semântica aplicada a legislacao brasileira",
+    due="unrelated to GDPR",
+    display="rodrigues",
+    authors="RODRIGUES, Cleyton Mario de Oliveira",
+    place=Thesis,
+    ID='rodrigues2019abordagem',
+    category='unrelated',
+    cluster_id='15179458466387900462',
+    entrytype='article',
+    link='https://repositorio.ufpe.br/bitstream/123456789/33904/1/TESE%20Cleyton%20M%C3%A1rio%20de%20Oliveira%20Rodrigues.pdf',
+    organization='Universidade Federal de Pernambuco',
+    scholar='https://scholar.google.com/scholar?cites=15179458466387900462&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='LrjYCw1FqNIJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
 rossi2019a = DB(Work(
     2019, "DaPIS: an ontology-based data protection icon set",
     due="Unrelated to provenance",
@@ -703,6 +904,25 @@ rossi2019a = DB(Work(
     scholar_ok=True,
     volume='317',
     backward_steps=1,
+))
+
+schaefer2019a = DB(Work(
+    2019, "Transparent logging with hyperledger fabric",
+    due="Unrelated to provenance",
+    display="schaefer",
+    authors="Schaefer, Christian and Edman, Christine",
+    place=ICBC,
+    ID='schaefer2019transparent',
+    category='unrelated',
+    cluster_id='3004937027309908162',
+    entrytype='inproceedings',
+    link='https://ieeexplore.ieee.org/abstract/document/8751339/',
+    organization='IEEE',
+    pp='65--69',
+    scholar='https://scholar.google.com/scholar?cites=3004937027309908162&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='wrA5NU6usykJ',
+    scholar_ok=True,
+    forward_steps=1,
 ))
 
 shastri2019a = DB(Work(
@@ -741,6 +961,27 @@ sion2019a = DB(Work(
     backward_steps=1,
 ))
 
+stoykov2019a = DB(Work(
+    2019, "Legal data extraction and possible applications",
+    due="Does not propose a model",
+    display="stoykov",
+    authors="Stoykov, K and Chelebieva, S",
+    place=IOPMSE,
+    ID='stoykov2019legal',
+    category='unrelated',
+    cluster_id='1360870846515387519',
+    entrytype='inproceedings',
+    link='https://iopscience.iop.org/article/10.1088/1757-899X/618/1/012037/pdf',
+    number='1',
+    organization='IOP Publishing',
+    pp='012037',
+    scholar='https://scholar.google.com/scholar?cites=1360870846515387519&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='fxy8H9PI4hIJ',
+    scholar_ok=True,
+    volume='618',
+    forward_steps=1,
+))
+
 tambou2019a = DB(Work(
     2019, "Open Access Book on National Adaptations of the GDPR, Mc Cullagh, Tambou, Bourton – blogdroiteuropeen",
     due="Not a peer-reviewed publication",
@@ -748,29 +989,29 @@ tambou2019a = DB(Work(
     authors="Olivia Tambou",
     place=Web,
     ID='OpenAcce67:online',
-    aliases='',
-    approach_name='',
     category='unrelated',
-    citation_file='',
-    cluster_id='',
-    doi='',
     entrytype='misc',
-    local='',
-    metakey='',
-    month='',
-    number='',
-    organization='',
-    pdfpage='',
-    pp='',
-    publisher='',
-    scholar='',
-    scholar_id='',
     scholar_ok='@misc{OpenAcce67:online,\nauthor = {Olivia Tambou},\ntitle = {Open Access Book on National Adaptations of the GDPR, Mc Cullagh, Tambou, Bourton – blogdroiteuropeen},\nhowpublished = {https://blogdroiteuropeen.com/2019/02/27/open-access-book-on-national-adaptations-of-the-gdpr-mc-cullagh-tambou-bourton-eds/},\nmonth = {},\nyear = {2019},\n}',
-    tracking='',
-    volume='',
-    summary='',
-    link='',
     backward_steps=1,
+))
+
+torre2019a = DB(Work(
+    2019, "Using models to enable compliance checking against the GDPR: an experience report",
+    due="The ontology was not publicly available",
+    display="torre",
+    authors="Torre, Damiano and Soltana, Ghanem and Sabetzadeh, Mehrdad and Briand, Lionel C and Auffinger, Yuri and Goes, Peter",
+    place=MODELS,
+    ID='torre2019using',
+    category='nofile',
+    cluster_id='14933488079857526002',
+    entrytype='inproceedings',
+    link='https://orbilu.uni.lu/bitstream/10993/39701/1/PID6018521.pdf',
+    organization='IEEE',
+    pp='1--11',
+    scholar='https://scholar.google.com/scholar?cites=14933488079857526002&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='8iRwoUloPs8J',
+    scholar_ok=True,
+    forward_steps=1,
 ))
 
 truong2019a = DB(Work(
@@ -820,28 +1061,10 @@ urm2019a = DB(Work(
     authors="URM, Lorenzo Bracciale and CAS, Adrián Juan-Verdejo",
     place=Web,
     ID='urm2019initial',
-    aliases='',
-    approach_name='',
     category='unrelated',
-    citation_file='',
-    cluster_id='',
-    doi='',
     entrytype='article',
-    local='',
-    metakey='',
-    month='',
-    number='',
-    organization='',
     pdfpage="@article{urm2019initial,\n  title={Initial Specification of BPR4GDPR architecture},\n  author={URM, Lorenzo Bracciale and CAS, Adri{\\'a}n Juan-Verdejo},\n  year={2019}\n}\n",
-    pp='',
-    publisher='',
-    scholar='',
-    scholar_id='',
     scholar_ok="@article{urm2019initial,\n  title={Initial Specification of BPR4GDPR architecture},\n  author={URM, Lorenzo Bracciale and CAS, Adri{\\'a}n Juan-Verdejo},\n  year={2019}\n}\n",
-    tracking='',
-    volume='',
-    summary='',
-    link='',
     backward_steps=1,
 ))
 
@@ -901,6 +1124,42 @@ wang2019a = DB(Work(
     backward_steps=1,
 ))
 
+weissgerber2019a = DB(Work(
+    2019, "A balanced scorecard for holistic monitoring of shared services for corporate data protection",
+    due="Unrelated to provenance",
+    display="weissgerber",
+    authors="Weissgerber, Florian and Lazar, Eszter and Tafreschi, Omid",
+    place=ICBIM,
+    ID='weissgerber2019balanced',
+    category='unrelated',
+    cluster_id='13193113802828808785',
+    entrytype='inproceedings',
+    link='https://dl.acm.org/doi/pdf/10.1145/3361785.3361793?casa_token=Br301A48Lf0AAAAA:6mgJ78zMv3IDAf34xR5BeZTHsPF5djM1yBpGCly2NVCZgEsUO9br9qFUgyQMzjhzJMLc75Bw0vKN7Q',
+    pp='152--157',
+    scholar='https://scholar.google.com/scholar?cites=13193113802828808785&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='UQLqghpbF7cJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+wilhelm2019a = DB(Work(
+    2019, "Policy-based authentication and authorization based on the layered privacy language",
+    due="Unrelated to provenance",
+    display="wilhelm",
+    authors="Wilhelm, Sebastian and Gerl, Armin",
+    place=BTW,
+    ID='wilhelm2019policy',
+    category='unrelated',
+    cluster_id='1356794880405329328',
+    entrytype='article',
+    link='https://dl.gi.de/bitstream/handle/20.500.12116/21812/D1-9.pdf?sequence=1&isAllowed=y',
+    organization='Gesellschaft für Informatik, Bonn',
+    scholar='https://scholar.google.com/scholar?cites=1356794880405329328&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='sNWgT8FN1BIJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
 winckler2019a = DB(Work(
     2019, "Personal Information Controller Service (PICS)",
     due="File not found",
@@ -920,6 +1179,23 @@ winckler2019a = DB(Work(
     backward_steps=1,
 ))
 
+
+yeung2019a = DB(Work(
+    2019, "Effects of inserting domain vocabulary and fine-tuning BERT for German legal language",
+    due="unrelated to GDPR",
+    display="yeung",
+    authors="Yeung, Chin Man",
+    place=Thesis,
+    ID='yeung2019effects',
+    category='unrelated',
+    cluster_id='14308796113609245603',
+    entrytype='mastersthesis',
+    link='http://essay.utwente.nl/80128/1/Yeung_InteractionTechnology_EEMCS.pdf',
+    scholar='https://scholar.google.com/scholar?cites=14308796113609245603&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='o0MrC0EOk8YJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
 
 zhao2019a = DB(Work(
     2019, "Towards a computer-interpretable actionable formal model to encode data governance rules",

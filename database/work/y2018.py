@@ -56,6 +56,7 @@ bajaj2018a = DB(Work(
     scholar_id='PA2tGVJHWzQJ',
     scholar_ok=True,
     volume='6',
+    forward_steps=1,
 ))
 
 bartolini2018a = DB(Work(
@@ -109,8 +110,6 @@ basin2018a = DB(Work(
     scholar='https://scholar.google.com/scholar?cites=8501187526162782837&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='dRrqiQNJ-nUJ',
     scholar_ok=True,
-    useful=True,
-    not_directly_related_to_provenance=True,
     backward_steps=1,
 ))
 
@@ -153,39 +152,21 @@ benfenatki2018a = DB(Work(
 
 bonatti2018a = DB(Work(
     2018, "The SPECIAL usage policy language",
-    due="This approach introduces a policy language addressing terms and activities related to GDPR. However, we could not find information about this publication process, whether or not it is peer-reviewed. Additionally, this document the paper was not made publicly available. We have found this ontology by searching on the web at the following address https://ai.wu.ac.at/policies/policylanguage/#references",
+    due="This approach introduces a usage policy language, which addresses terms and activities to specify a set of authorized operations. The SPECIAL Usage Policy language specifically represents five elements as the minimum core model: the data item, the purpose, the process, the storage, and the recipient. The approach was submitted to scientific publications along with its construction. The ontology is publicly available at https://ai.wu.ac.at/policies/policylanguage/.\n\nSince this document is not a scientific document, it was not tracked by the Google Scholar search engine, and thus it was not possible to roll it in the Snowballing process.",
     display="bonatti",
     authors="Bonatti, PA and Kirrane, S and Petrova, IM and Sauro, L and Schlehahn, E",
     place=Web,
     ID='bonatti2018special',
-    aliases='',
-    approach_name='',
     category='unrelated',
-    citation_file='',
-    cluster_id='',
-    doi='',
     entrytype='techreport',
-    local='',
-    metakey='',
-    month='',
-    number='',
-    organization='',
-    pdfpage='',
-    pp='',
-    publisher='',
-    scholar='',
-    scholar_id='',
     scholar_ok='@techreport{bonatti2018special,\n  title={The SPECIAL usage policy language},\n  author={Bonatti, PA and Kirrane, S and Petrova, IM and Sauro, L and Schlehahn, E},\n  year={2018},\n  institution={V0. 1. Technical report}\n}',
-    tracking='',
-    volume='',
-    summary='',
     link='https://ai.wu.ac.at/policies/policylanguage/',
     backward_steps=1,
 ))
 
 bonatti2018b = DB(Work(
     2018, "Data privacy vocabularies and controls: Semantic web for transparency and privacy",
-    due="unrelated to GDPR",
+    due="This document proposes a privacy ontology to represent the concepts around an application (i.e.,  Innovation Ethics) that can contain personal data. It thus has no relation to GDPR and has been discarded.",
     display="bonatti",
     authors="Bonatti, Piero A and Bos, Bert and Decker, Stefan and Fernández, Javier D and Kirrane, Sabrina and Peristeras, Vassilios and Polleres, Axel and Wenning, Rigo",
     place=SW4SG,
@@ -220,7 +201,7 @@ bonatti2018c = DB(Work(
 
 bonatti2018d = DB(Work(
     2018, "The SPECIAL Policy Log Vocabulary",
-    due="This document reports the SPECIAL policy vocabulary. This conceptual model can is in our scope.",
+    due="Discarded due to this document was not made publicly available.",
     display="bonatti",
     authors=" Piero Bonatti, Wouter Dullaert, Javier D. Fernández, Sabrina Kirrane, Milosevic, Axel Polleres ",
     place=Web,
@@ -230,6 +211,23 @@ bonatti2018d = DB(Work(
     month='3',
     category='ok',
     backward_steps=1,
+))
+
+debattista2018a = DB(Work(
+    2018, "Preface of MEPDaW 2018: Managing the Evolution and Preservation of the Data Web",
+    due="Not a peer-reviewed document",
+    display="debattista",
+    authors="Debattista, Jeremy and Fernández, Javier D and Umbrich, Jürgen and Vidal, Maria-Esther",
+    place=MEPDaW,
+    ID='debattista2018preface',
+    category='unrelated',
+    cluster_id='9004688517459312548',
+    entrytype='article',
+    link='http://ceur-ws.org/Vol-2112/preface-mepdaw-2018.pdf',
+    scholar='https://scholar.google.com/scholar?cites=9004688517459312548&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='pH8zbH8U93wJ',
+    scholar_ok=True,
+    forward_steps=1,
 ))
 
 debruyne2018a = DB(Work(
@@ -248,11 +246,12 @@ debruyne2018a = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=4561894562116615271&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='Zzy_Le8aTz8J',
     scholar_ok=True,
+    forward_steps=1,
 ))
 
 elluri2018a = DB(Work(
     2018, "An integrated knowledge graph to automate gdpr and pci dss compliance",
-    due="Although this paper proposes an ontology, this one has no directly relation to data provenance. Additionally, we believe that this ontology is too domain-specific and can not contribute to our purposes.",
+    due="Although this paper proposes an ontology, this one has no direct relation to data provenance. Additionally, we believe this ontology is too domain-specific and can not contribute to our purposes.\n\nAvailable at: https://mdsoar.org/bitstream/handle/11603/12095/907.pd.pdf#page=4",
     display="elluri",
     authors="Elluri, Lavanya and Nagar, Ankur and Joshi, Karuna Pande",
     place=IEEEBD,
@@ -268,13 +267,11 @@ elluri2018a = DB(Work(
     scholar_ok=True,
     summary='"Big data analytics related to consumer behavior, market analysis, opinions, and recommendation often deal with end user\'s derived and inferred data, along with the observed data. To ensure consumer data protection, rules defined by the European Union\'s General Data Protection Regulation (EU GDPR) must be adhered to by every organization using Personally Identifiable Information (PII) data for Big Data analysis. Similarly, Payment Card Industry Data Security Standard (PCI DSS) has policy guidelines specifically for organizations handling consumer\'s payment card data. Both data regulation policies are currently available only in textual format and require significant manual effort to ensure their compliance. We have developed an integrated, semantically rich Knowledge Graph (or Ontology) to represent the rules mandated by both PCI DSS and EU GDPR. In the Ontology, we have also identified the obligations defined in these regulations and related them with corresponding Cloud Security Alliance (CSA) controls. We have validated this Knowledge Graph against the data policies of major vendors that deal with Big Data. This Knowledge Graph that is available in the public domain can be used by Big Data practitioners to automate data protection compliance in their organization."',
     start_set=True,
-    useful=True,
-    not_directly_related_to_provenance=True,
 ))
 
 elluri2018b = DB(Work(
     2018, "A knowledge representation of cloud data controls for EU GDPR compliance",
-    due="This ontology proposes classes to represent providers and cloud data consumers' obligations as GDPR elicits. Thus, it is out of the scope of our work.",
+    due="This ontology proposes classes to represent providers and cloud data consumers' obligations as GDPR elicits. Thus, it is out of the scope of our work.\n\nOntology available at: https://webprotege.stanford.edu/#projects/e8283240-7b78-462f-8e98-0410ef033621/edit/Classes",
     summary="",
     display="elluri",
     authors="Elluri, Lavanya and Joshi, Karuna Pande",
@@ -290,8 +287,6 @@ elluri2018b = DB(Work(
     scholar_id='pGciYkbcGloJ',
     scholar_ok=True,
     start_set=True,
-    useful=True,
-    not_directly_related_to_provenance=True,
 ))
 
 fernández2018a = DB(Work(
@@ -313,7 +308,7 @@ fernández2018a = DB(Work(
 
 geko2018a = DB(Work(
     2018, "An ontology capturing the interdependence of the general data protection regulation (GDPR) and information security",
-    due="This paper introduces an ontology-based data protection knowledge base to show the relationship between concepts of information security and the GDPR. This approach does not propose ontologies for representing the provenance of activities ruled by GDPR.",
+    due="In this paper, the authors have developed an ontology-based data protection knowledge graph that shows the relationship between concepts of information security and the GDPR. The proposed ontology identifies five main areas scoped into the GDPR using the recommended process for building ontologies [19]: Data, organization, principles, rights, and obligations.\n\nAdditional to the main relations within these areas, the authors have presented high-level ontology classes and relations, which include Data, Person (Data Subject, Controller, Processor), Data Subject Rights, Organization, Obligation (Controller obligations, Processor obligations, Data Security).\n\nAfter all, the paper explicitly notes that the ontology has not been evaluated and the ontology is not made publicly available. For that reason, we have discarded this publication.\n\nReferences:\n\n[19] Natalya F Noy, Deborah L McGuinness, et al. 2001. Ontology development 101: A guide to creating your first ontology. (2001).",
     display="geko",
     authors="Geko, Melisa and Tjoa, Simon",
     place=CECC,
@@ -346,8 +341,6 @@ gerl2018a = DB(Work(
     scholar='https://scholar.google.com/scholar?cites=16540057412730955132&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='fCVlepUWiuUJ',
     scholar_ok=True,
-    useful=True,
-    not_directly_related_to_provenance=True,
     backward_steps=1,
 ))
 
@@ -413,27 +406,12 @@ kirrane2018a = DB(Work(
     authors="Kirrane, Sabrina and Fernández, Javier D and Dullaert, Wouter and Milosevic, Uros and Polleres, Axel and Bonatti, Piero A and Wenning, Rigo and Drozd, Olha and Raschke, Philip",
     place=ESWC,
     ID='kirrane2018scalable',
-    aliases='',
-    approach_name='',
-    category='unrelated',
-    citation_file='',
-    cluster_id='',
-    doi='',
+    category='ok',
     entrytype='inproceedings',
-    local='',
-    metakey='',
-    month='',
-    number='',
     organization='Springer',
-    pdfpage='',
     pp='131--136',
-    publisher='',
-    scholar='',
-    scholar_id='',
+    scholar="https://scholar.google.com/scholar?cites=13808115522786291090&as_sdt=2005&sciodt=0,5&hl=pt-BR",
     scholar_ok="@inproceedings{kirrane2018scalable,\n  title={A scalable consent, transparency and compliance architecture},\n  author={Kirrane, Sabrina and Fern{\\'a}ndez, Javier D and Dullaert, Wouter and Milosevic, Uros and Polleres, Axel and Bonatti, Piero A and Wenning, Rigo and Drozd, Olha and Raschke, Philip},\n  booktitle={European Semantic Web Conference},\n  pages={131--136},\n  year={2018},\n  organization={Springer}\n}",
-    tracking='',
-    volume='',
-    summary='',
     link='https://epub.wu.ac.at/6483/1/ESWC2018.pdf',
     backward_steps=1,
 ))
@@ -456,6 +434,7 @@ kirrane2018b = DB(Work(
     scholar_id='9JswECNQk7kJ',
     scholar_ok=True,
     volume='9',
+    forward_steps=1,
 ))
 
 legislature2018a = DB(Work(
@@ -532,59 +511,46 @@ marini2018a = DB(Work(
     authors="Alice Marini, Alexis Kateifides, Joel Bates",
     place=Web,
     ID='GDPRCCPA82:online',
-    aliases='',
-    approach_name='',
     category='unrelated',
-    citation_file='',
-    cluster_id='',
-    doi='',
     entrytype='misc',
-    local='',
-    metakey='',
     month='11',
-    number='',
-    organization='',
-    pdfpage='',
-    pp='',
-    publisher='',
-    scholar='',
-    scholar_id='',
     scholar_ok='@misc{GDPRCCPA82:online,\nauthor = {Alice Marini, Alexis Kateifides, Joel Bates},\ntitle = {GDPR\\_CCPA\\_Comparison-Guide.pdf},\nhowpublished = {https://fpf.org/wp-content/uploads/2018/11/GDPR_CCPA_Comparison-Guide.pdf},\nmonth = {11},\nyear = {2018},\n}',
-    tracking='',
-    volume='',
-    summary='',
-    link='',
     backward_steps=1,
+))
+
+meis2018a = DB(Work(
+    2018, "Problem-Based Privacy Analysis (ProPAn): A Computer-aided Privacy Requirements Engineering Method",
+    due="FIle not found",
+    display="meis",
+    authors="Meis, Rene",
+    place=Book,
+    ID='meis2018problem',
+    category='nofile',
+    cluster_id='6400880598428508268',
+    entrytype='book',
+    link='https://search.proquest.com/openview/41680eecdfbf3298929a778039d0e225/1?pq-origsite=gscholar&cbl=2026366&diss=y',
+    organization='Universitaet Duisburg-Essen (Germany)',
+    scholar='https://scholar.google.com/scholar?cites=6400880598428508268&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='bGAFr_1-1FgJ',
+    scholar_ok=True,
+    forward_steps=1,
 ))
 
 oltramari2018a = DB(Work(
     2018, "PrivOnto: A semantic framework for the analysis of privacy policies",
-    due="This document introduces the PrOnto, a semantic framework for privacy polices. However, this paper specifically does not show how the PrOnto can be useful to met GDPR issues. Thus, we consider out of the scope",
+    due="PrivOnto's ontology is focused on annotating privacy policy documents. Thus, it is out of our scope. Additionally, it has no direct relation to GDPR.",
     display="oltramari",
     authors="Oltramari, Alessandro and Piraviperumal, Dhivya and Schaub, Florian and Wilson, Shomir and Cherivirala, Sushain and Norton, Thomas B and Russell, N Cameron and Story, Peter and Reidenberg, Joel and Sadeh, Norman",
     place=Web,
     ID='oltramari2018privonto',
-    aliases='',
-    approach_name='',
     category='unrelated',
-    citation_file='',
-    cluster_id='',
-    doi='',
     entrytype='article',
-    local='',
-    metakey='',
-    month='',
     number='2',
     organization='IOS Press',
-    pdfpage='',
     pp='185--203',
-    publisher='',
     scholar='https://scholar.google.com/scholar?cites=17738929873691880874&as_sdt=2005&sciodt=0,5&hl=pt-BR',
-    scholar_id='',
     scholar_ok='@article{oltramari2018privonto,\n  title={PrivOnto: A semantic framework for the analysis of privacy policies},\n  author={Oltramari, Alessandro and Piraviperumal, Dhivya and Schaub, Florian and Wilson, Shomir and Cherivirala, Sushain and Norton, Thomas B and Russell, N Cameron and Story, Peter and Reidenberg, Joel and Sadeh, Norman},\n  journal={Semantic Web},\n  volume={9},\n  number={2},\n  pages={185--203},\n  year={2018},\n  publisher={IOS Press}\n}\n',
-    tracking='',
     volume='9',
-    summary='',
     link='http://www.semantic-web-journal.net/system/files/swj1597.pdf',
     backward_steps=1,
 ))
@@ -650,7 +616,7 @@ palmirani2018b = DB(Work(
 
 palmirani2018c = DB(Work(
     2018, "Pronto: Privacy ontology for legal compliance",
-    due="This paper introduces a privacy ontology to represent and model concepts of the GDPR. This ontology is presented in a few modules which aim to represent specific topics of the law, namely: (1) Data and Document, (2) Agent and Role, (3) Purposes and Legal Basis, (4) Data Processing, (5) Deontic Operators, (6) Rights and Obligations relationships, (7) Duties and Violation. This ontology evaluation is presented in running European H2020 Projects. Although some of these modules can assist in the objective of our research, this paper does not make public available this ontology.",
+    due="This paper introduces a privacy ontology to represent and model concepts of the GDPR. This ontology is presented in a few modules which aim to represent specific topics of the law, namely: (1) Data and Document, (2) Agent and Role, (3) Purposes and Legal Basis, (4) Data Processing, (5) Deontic Operators, (6) Rights and Obligations relationships, (7) Duties and Violation. This ontology evaluation is presented in running European H2020 Projects. Although some of these modules can assist in the objective of our research, this paper does not make publicly available this ontology.",
     display="palmirani",
     authors="Palmirani, Monica and Martoni, Michele and Rossi, Arianna and Bartolini, Cesare and Robaldo, Livio",
     place=ECDG,
@@ -719,12 +685,10 @@ pandit2018b = DB(Work(
     cluster_id='13838446894479759828',
     entrytype='inproceedings',
     link='http://www.tara.tcd.ie/bitstream/handle/2262/91542/SEMANTiCS2018___Poster___Exploring_GDPR_Compliance_Over_Provenance_Graphs_Using_SHACL.pdf?sequence=1',
-    pdfpage='',
     scholar='https://scholar.google.com.br/scholar?cites=13838446894479759828&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='1NmSnCEKDMAJ',
     scholar_ok=True,
     summary='"Semantic web technologies provide an open and adaptable framework for compliance regarding the General Data Protection Regulation (GDPR). Our previous work in this regard demonstrates the use of SPARQL for querying provenance of consent and personal data lifecycles for compliance. We extend this work through our model for evaluation of GDPR compliance using SHACL to validate the correctness and completeness of information. The model describes the creation of a compliance graph consisting of information required to document and demonstrate compliance linked to specific articles and obligations within the GDPR using the GDPRtEXT vocabulary."',
-    related='',
     start_set=True,
 ))
 
@@ -874,6 +838,7 @@ pandit2018j = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=8372456580722802551&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='dz9dp-bwMHQJ',
     scholar_ok=True,
+    forward_steps=1,
 ))
 
 pandit2018k = DB(Work(
@@ -887,12 +852,10 @@ pandit2018k = DB(Work(
     cluster_id='1917032435182051083',
     entrytype='article',
     link='https://chrdebru.github.io/papers/2018-ijsr-preprint.pdf',
-    pdfpage='',
     scholar='https://scholar.google.com.br/scholar?cites=1917032435182051083&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='C5_tydeqmhoJ',
     scholar_ok=True,
-    summary='',
-    related='',
+    forward_steps=1,
 ))
 
 pasquier2018a = DB(Work(
@@ -993,9 +956,27 @@ rantos2018a = DB(Work(
     backward_steps=1,
 ))
 
+rantos2018b = DB(Work(
+    2018, "Blockchain-based Consents Management for Personal Data Processing in the IoT Ecosystem.",
+    due="unrelated to GDPR",
+    display="rantos",
+    authors="Rantos, Konstantinos and Drosatos, George and Demertzis, Konstantinos and Ilioudis, Christos and Papanikolaou, Alexandros",
+    place=ICETE,
+    ID='rantos2018blockchain',
+    category='unrelated',
+    cluster_id='12445251332780108175',
+    entrytype='article',
+    link='http://utopia.duth.gr/~kdemertz/papers/SECRYPT.pdf',
+    scholar='https://scholar.google.com/scholar?cites=12445251332780108175&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='j6nQPiZqtqwJ',
+    scholar_ok=True,
+    volume='298',
+    forward_steps=1,
+))
+
 teruel2018a = DB(Work(
     2018, "Legal text processing within the MIREL project",
-    due="Not directly related to provenance.",
+    due="This document proposes a tool and the resources to mine and reason legal texts. It thus has no direct relation to provenance. Additionally, the authors have not directly applicated this approach to GDPR requirements.",
     display="MIREL",
     authors="Teruel, Milagro and Cardellino, Cristian and Cardellino, Fernando and Alemany, Laura Alonso and Villata, Serena",
     place=LREC,
@@ -1045,9 +1026,7 @@ tom2018a = DB(Work(
     scholar_id='5TQ9HeN775sJ',
     scholar_ok=True,
     related="Representation",
-    category="unrelated",
-    useful=True,
-    not_directly_related_to_provenance=True,
+    category="ok",
     backward_steps=1,
 ))
 

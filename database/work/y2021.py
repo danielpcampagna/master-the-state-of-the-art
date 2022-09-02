@@ -3,6 +3,120 @@ from datetime import datetime
 from snowballing.models import *
 from ..places import *
 
+aleroud2021a = DB(Work(
+    2021, "Identifying GDPR Privacy Violations Using an Augmented LSTM: Toward an AI-based Violation Alert Systems",
+    due="Unrelated to provenance",
+    display="aleroud",
+    authors="AlEroud, Ahmed and Masalha, Faten and Saifan, Ahmad A",
+    place=BdCloud,
+    ID='aleroud2021identifying',
+    category='unrelated',
+    cluster_id='13209631320354364737',
+    entrytype='inproceedings',
+    link='http://www.cloud-conf.net/ispa2021/proc/pdfs/ISPA-BDCloud-SocialCom-SustainCom2021-3mkuIWCJVSdKJpBYM7KEKW/264600b617/264600b617.pdf',
+    organization='IEEE',
+    pp='1617--1624',
+    scholar='https://scholar.google.com/scholar?cites=13209631320354364737&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='QZ2Yv7IJUrcJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+bassit2021a = DB(Work(
+    2021, "Policy-Based Automated Compliance Checking",
+    due="Document not accessible",
+    display="bassit",
+    authors="Al Bassit, Anas and Krasnashchok, Katsiaryna and Skhiri, Sabri and Mustapha, Majd",
+    place=RuleML,
+    ID='al2021policy',
+    category='nofile',
+    cluster_id='14529266834100212797',
+    entrytype='inproceedings',
+    link='https://link.springer.com/chapter/10.1007/978-3-030-91167-6_1',
+    organization='Springer',
+    pp='3--17',
+    scholar='https://scholar.google.com/scholar?cites=14529266834100212797&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='PVRozTRToskJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+blomqvist2021a = DB(Work(
+    2021, "A Design Pattern Describing Use of Personal Data in Privacy Policies",
+    due="This document just utilize prior models to propose desin patterns to represent specifics use cases",
+    display="blomqvist",
+    authors="Blomqvist, E and others",
+    place=Book,
+    ID='blomqvist2021design',
+    category='unrelated',
+    cluster_id='6411806615966369315',
+    entrytype='article',
+    link='https://books.google.com.br/books?hl=en&lr=&id=6VA2EAAAQBAJ&oi=fnd&pg=PA107&ots=0cK2YGq9Q2&sig=JGq_hT_qyKdy_y7ajj3twlBuAig',
+    organization='IOS Press',
+    pp='107',
+    scholar='https://scholar.google.com.br/scholar?cites=6411806615966369315&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='I8YsYSVQ-1gJ',
+    scholar_ok=True,
+    volume='51',
+    forward_steps=1,
+))
+
+caleira2021a = DB(Work(
+    2021, "Perspetiva do consumidor sobre o marketing de base de dados direto segurador português",
+    due="Unrelated to provenance",
+    display="caleira",
+    authors="Caleira, João Pedro Borrego",
+    place=Thesis,
+    ID='caleira2021perspetiva',
+    category='unrelated',
+    cluster_id='1516075884344001320',
+    entrytype='phdthesis',
+    link='https://comum.rcaap.pt/bitstream/10400.26/36295/1/joao_caleira.pdf',
+    scholar='https://scholar.google.com/scholar?cites=1516075884344001320&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='KEPc-vsuChUJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+ekaputra2021a = DB(Work(
+    2021, "Semantic-enabled architecture for auditable privacy-preserving data analysis",
+    due="Although it utilize prior model, it does not introduces a new one.",
+    display="ekaputra",
+    authors="Ekaputra, Fajar J and Ekelhart, Andreas and Mayer, Rudolf and Miksa, Tomasz and Sarcevic, Tanja and Tsepelakis, Sotirios and Waltersdorfer, Laura",
+    place=SemanticWeb,
+    ID='ekaputra2021semantic',
+    category='unrelated',
+    cluster_id='2653721650793271300',
+    entrytype='article',
+    link='https://content.iospress.com/articles/semantic-web/sw212883',
+    number='Preprint',
+    organization='IOS Press',
+    pp='1--34',
+    scholar='https://scholar.google.com.br/scholar?cites=2653721650793271300&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='BNBLCMjp0yQJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+ekelhart2021a = DB(Work(
+    2021, "The SLOGERT framework for automated log knowledge graph construction",
+    due="unrelated to GDPR",
+    display="ekelhart",
+    authors="Ekelhart, Andreas and Ekaputra, Fajar J and Kiesling, Elmar",
+    place=ESWC,
+    ID='ekelhart2021slogert',
+    category='unrelated',
+    cluster_id='17913208437714039105',
+    entrytype='inproceedings',
+    link='http://eprints.cs.univie.ac.at/6995/1/The%20SLOGERT%20Framework%20for%20Automated%20Log%20Knowledge%20Graph%20Construction.pdf',
+    organization='Springer',
+    pp='631--646',
+    scholar='https://scholar.google.com/scholar?cites=17913208437714039105&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='QbF5dSqAmPgJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
 esteves2021a = DB(Work(
     2021, "ODRL Profile for Expressing Consent through Granular Access Control Policies in Solid",
     due="The approach a extensions to the Access Control Language (ACL) to express rights and more complex privacy expressions. Such extensions is based on concepts from Open Digital Rights Language (ODRL), which provide concepts for representing stataments about the usage of some content, and also from Data Privacy Vocabulary (DPV), which is a rich vocabulary with privacy terms.",
@@ -19,6 +133,7 @@ esteves2021a = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=15246464161540978441&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='CbdfLWBSltMJ',
     scholar_ok=True,
+    forward_steps=1,
 ))
 
 filipczuk2021a = DB(Work(
@@ -35,6 +150,115 @@ filipczuk2021a = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=16503246320892567099&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='O96SRRdPB-UJ',
     scholar_ok=True,
+    forward_steps=1,
+))
+
+flesch2021a = DB(Work(
+    2021, "Investigating the suitability of blockchain for managing patients consent in clinical trials",
+    due="Unrelated to provenance",
+    display="flesch",
+    authors="Flesch, Boris",
+    place=Thesis,
+    ID='flesch2021investigating',
+    category='unrelated',
+    cluster_id='1664231509165277691',
+    entrytype='article',
+    link='https://www.scss.tcd.ie/publications/theses/diss/2021/TCD-SCSS-DISSERTATION-2021-046.pdf',
+    scholar='https://scholar.google.com.br/scholar?cites=1664231509165277691&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='-wHPd72JGBcJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+gharib2021a = DB(Work(
+    2021, "Privacy and informational self-determination through informed consent: the way forward",
+    due="Unrelated to provenance",
+    display="gharib",
+    authors="Gharib, Mohamad",
+    place=ESORICS,
+    ID='gharib2021privacy',
+    category='unrelated',
+    cluster_id='15496721101935087012',
+    entrytype='inproceedings',
+    link='https://www.researchgate.net/profile/Mohamad-Gharib/publication/357573456_Privacy_and_Informational_Self-determination_Through_Informed_Consent_The_Way_Forward/links/61d4875bb8305f7c4b20ade0/Privacy-and-Informational-Self-determination-Through-Informed-Consent-The-Way-Forward.pdf',
+    organization='Springer',
+    pp='171--184',
+    scholar='https://scholar.google.com/scholar?cites=15496721101935087012&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='pA0ksLxpD9cJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+goram2021a = DB(Work(
+    2021, "Ethical Behavior and Legal Regulations in Artificial Intelligence (Part One): Supporting Sovereignty of Users While Using Complex and Intelligent Systems",
+    due="FIle not found",
+    display="goram",
+    authors="Goram, Mandy and Veiel, Dirk",
+    place=Book,
+    ID='goram2021ethical',
+    category='nofile',
+    cluster_id='3610671273100224998',
+    entrytype='incollection',
+    link='https://www.igi-global.com/chapter/ethical-behavior-and-legal-regulations-in-artificial-intelligence-part-one/265711',
+    organization='IGI Global',
+    pp='12--26',
+    scholar='https://scholar.google.com/scholar?cites=3610671273100224998&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='5qnYiWSuGzIJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+grünewald2021a = DB(Work(
+    2021, "TIRA: an OpenAPI extension and toolbox for GDPR transparency in RESTful architectures",
+    due="Unrelated to provenance",
+    display="grünewald",
+    authors="Grünewald, Elias and Wille, Paul and Pallas, Frank and Borges, Maria C and Ulbricht, Max-R",
+    place=IEEEESSPW,
+    ID='grunewald2021tira',
+    category='unrelated',
+    cluster_id='5944392337642399229',
+    entrytype='inproceedings',
+    link='https://arxiv.org/pdf/2106.06001',
+    organization='IEEE',
+    pp='312--319',
+    scholar='https://scholar.google.com/scholar?cites=5944392337642399229&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='_aW6Gla5flIJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+ham2021a = DB(Work(
+    2021, "Een methode voor de controle van naleving van de AVG met behulp van privacyservices.",
+    due="It is not written in a valid language",
+    display="ham",
+    authors="van der Ham, FJ",
+    place=Thesis,
+    ID='van2021een',
+    category='lang',
+    cluster_id='7474195106669044724',
+    entrytype='phdthesis',
+    link='https://research.ou.nl/ws/portalfiles/portal/41291613/Ham_van_der_F_IM9806_AF_BPMIT_scriptie_PURE.pdf',
+    scholar='https://scholar.google.com/scholar?cites=7474195106669044724&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='9KP4etmsuWcJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+hamed2021a = DB(Work(
+    2021, "Enhancing the Transparency of Personal Data Access through Semantic Web Technologies",
+    due="It concerned to enhance Semantic Web-based services privacy instead of improve new concepts for represent GDPR",
+    display="hamed",
+    authors="Hamed, Roghaiyeh Ramisa Gachpaz",
+    place=Thesis,
+    ID='hamed2021enhancing',
+    category='unrelated',
+    cluster_id='13781768305149191086',
+    entrytype='phdthesis',
+    link='http://www.tara.tcd.ie/bitstream/handle/2262/96722/PhDThesis-RoghaiyeGachpazHamed-15338853-final%20version.pdf?sequence=1',
+    scholar='https://scholar.google.com.br/scholar?cites=13781768305149191086&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='rqMnLUGtQr8J',
+    scholar_ok=True,
+    forward_steps=1,
 ))
 
 hasan2021a = DB(Work(
@@ -58,6 +282,43 @@ hasan2021a = DB(Work(
     start_set=True,
 ))
 
+herwanto2021a = DB(Work(
+    2021, "A named entity recognition based approach for privacy requirements engineering",
+    due="Document not made publicly available",
+    display="herwanto",
+    authors="Herwanto, Guntur Budi and Quirchmayr, Gerald and Tjoa, A Min",
+    place=IEEEREW,
+    ID='herwanto2021named',
+    category='unrelated',
+    cluster_id='15005256473010772124',
+    entrytype='inproceedings',
+    link='https://ieeexplore.ieee.org/abstract/document/9582331/',
+    organization='IEEE',
+    pp='406--411',
+    scholar='https://scholar.google.com.br/scholar?cites=15005256473010772124&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='nBhwzUJhPdAJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+hickey2021a = DB(Work(
+    2021, "A GDPR international transfer compliance framework based on an extended data privacy vocabulary (DPV)",
+    due="This document propose a framework building upon utilizes prior models ",
+    display="hickey",
+    authors="Hickey, David and Brennan, Rob",
+    place=JURIX,
+    ID='hickey2021gdpr',
+    category='unrelated',
+    cluster_id='2442350451264591331',
+    entrytype='article',
+    link='https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA210332',
+    organization='IOS Press',
+    scholar='https://scholar.google.com.br/scholar?cites=2442350451264591331&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='4xWkmMv45CEJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
 kurteva2021a = DB(Work(
     2021, "Implementing Informed Consent with Knowledge Graphs",
     due="Document not publicly available",
@@ -74,6 +335,7 @@ kurteva2021a = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=8037422846503159691&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='iwduq36pim8J',
     scholar_ok=True,
+    forward_steps=1,
 ))
 
 kurtheva2021a = DB(Work(
@@ -93,6 +355,86 @@ kurtheva2021a = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=3027628374649535429&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='xfvgNvdLBCoJ',
     scholar_ok=True,
+    forward_steps=1,
+))
+
+leone2021a = DB(Work(
+    2021, "Legal knowledge extraction in the data protection domain based on Ontology Design Patterns",
+    due="This thesis aims to investigate the diffenrences between different apporaches of building ontologies (automatic and manual means",
+    display="leone",
+    authors="Leone, Valentina",
+    place=Thesis,
+    ID='leone2021legal',
+    category='unrelated',
+    cluster_id='12304022038635949475',
+    entrytype='article',
+    link='http://amsdottorato.unibo.it/9747/1/Thesis-Leone-Valentina-2021.pdf',
+    organization='alma',
+    scholar='https://scholar.google.com.br/scholar?cites=12304022038635949475&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='oy15ydqqwKoJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+mcdonald2021a = DB(Work(
+    2021, "Evaluation of an access-risk-knowledge (ARK) platform for governance of risk and change in complex socio-technical systems",
+    due="Unrelated to provenance",
+    display="mcdonald",
+    authors="McDonald, Nick and McKenna, Lucy and Vining, Rebecca and Doyle, Brian and Liang, Junli and Ward, Marie E and Ulfvengren, Pernilla and Geary, Una and Guilfoyle, John and Shuhaiber, Arwa and others",
+    place=IJERPH,
+    ID='mcdonald2021evaluation',
+    category='unrelated',
+    cluster_id='15325545155937272996',
+    entrytype='article',
+    link='https://www.mdpi.com/1660-4601/18/23/12572/pdf',
+    number='23',
+    organization='MDPI',
+    pp='12572',
+    scholar='https://scholar.google.com.br/scholar?cites=15325545155937272996&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='pITZAB9Gr9QJ',
+    scholar_ok=True,
+    volume='18',
+    forward_steps=1,
+))
+
+mokhtari2021a = DB(Work(
+    2021, "A monitoring framework for transparency and fairness in big data platform",
+    due="Document not publicly available",
+    display="mokhtari",
+    authors="Aslaoui Mokhtari, Karima and Benbernou, Salima and Ouziri, Mourad and Lahmar, Hakim and Younas, Muhammad",
+    place=UnknownJournal,
+    ID='aslaoui2021monitoring',
+    category='nofile',
+    cluster_id='3550830197829100806',
+    entrytype='article',
+    link='https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6069',
+    number='23',
+    organization='Wiley Online Library',
+    pp='e6069',
+    scholar='https://scholar.google.com/scholar?cites=3550830197829100806&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='BmVVd0AVRzEJ',
+    scholar_ok=True,
+    volume='33',
+    forward_steps=1,
+))
+
+pedroza2021a = DB(Work(
+    2021, "A Model-based approach to realize privacy and data protection by design",
+    due="Unrelated to provenance",
+    display="pedroza",
+    authors="Pedroza, Gabriel and Muntes-Mulero, Victor and Martin, Yod Samuel and Mockly, Guillaume",
+    place=IEEEESSPW,
+    ID='pedroza2021model',
+    category='unrelated',
+    cluster_id='1099639771332749760',
+    entrytype='inproceedings',
+    link='https://www.researchgate.net/profile/Gabriel-Pedroza/publication/355767365_A_Model-based_Approach_to_Realize_Privacy_and_Data_Protection_by_Design/links/61850b6e3c987366c32cc2c8/A-Model-based-Approach-to-Realize-Privacy-and-Data-Protection-by-Design.pdf',
+    organization='IEEE',
+    pp='332--339',
+    scholar='https://scholar.google.com/scholar?cites=1099639771332749760&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='wCkuv4u0Qg8J',
+    scholar_ok=True,
+    forward_steps=1,
 ))
 
 pereira2021a = DB(Work(
@@ -123,7 +465,6 @@ norval2021a = DB(Work(
     cluster_id='14615755964735351410',
     entrytype='article',
     link='https://arxiv.org/pdf/2102.08132',
-    pdfpage='',
     scholar='https://scholar.google.com/scholar?cites=14615755964735351410&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='curYwZyY1coJ',
     scholar_ok=True,
@@ -151,6 +492,43 @@ rahmouni2021a = DB(Work(
     backward_steps=1,
 ))
 
+roubtsova2021a = DB(Work(
+    2021, "Privacy as a Service (PraaS): A Conceptual Model of GDPR to Construct Privacy Services",
+    due="FIle not found",
+    display="roubtsova",
+    authors="Roubtsova, Ella and Bosua, Rachelle",
+    place=BMSD,
+    ID='roubtsova2021privacy',
+    category='nofile',
+    cluster_id='12975558726091878595',
+    entrytype='inproceedings',
+    link='https://research.ou.nl/en/publications/privacy-as-a-service-praas-a-conceptual-model-of-gdpr-to-construc',
+    organization='Springer',
+    pp='170--189',
+    scholar='https://scholar.google.com/scholar?cites=12975558726091878595&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='wzDt9ulxErQJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+ryan2021a = DB(Work(
+    2021, "Building a Data Processing Activities Catalog: Representing Heterogeneous Compliance-Related Information for GDPR Using DCAT-AP and DPV.",
+    due="This document has extended prior models and proposed a Data Processing Activities catalog whichc contains concepts to represent the Register of Processing Activities as GDPR requires (Art. 30(4))",
+    display="ryan",
+    authors="Ryan, Paul and Pandit, Harshvardhan J and Brennan, Rob",
+    place=SEMANTiCS,
+    ID='ryan2021building',
+    category='ok',
+    cluster_id='8824252052426837441',
+    entrytype='inproceedings',
+    link='https://ebooks.iospress.nl/pdf/doi/10.3233/SSW210043',
+    pp='169--182',
+    scholar='https://scholar.google.com.br/scholar?cites=8824252052426837441&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='wc1pIX0KdnoJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
 saltarella2021a = DB(Work(
     2021, "Privacy Design Strategies and the GDPR: A Systematic Literature Review",
     due="This approach does not propose a provenance model, though it presents a useful literature review concerned privacy strategies addressing the GDPR.",
@@ -167,4 +545,44 @@ saltarella2021a = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=18186720156512423929&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='-Q9c_p81ZPwJ',
     scholar_ok=True,
+    forward_steps=1,
+))
+
+sion2021a = DB(Work(
+    2021, "An Overview of Runtime Data Protection Enforcement Approaches",
+    due="Unrelated to provenance",
+    display="sion",
+    authors="Sion, Laurens and Van Landuyt, Dimitri and Joosen, Wouter",
+    place=IEEEESSPW,
+    ID='sion2021overview',
+    category='unrelated',
+    cluster_id='2960132664365287311',
+    entrytype='inproceedings',
+    link='https://lirias.kuleuven.be/retrieve/633963',
+    organization='IEEE',
+    pp='351--358',
+    scholar='https://scholar.google.com/scholar?cites=2960132664365287311&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='jweGi_mAFCkJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+torre2021a = DB(Work(
+    2021, "Modeling data protection and privacy: application and experience with GDPR",
+    display="torre",
+    authors="Torre, Damiano and Alferez, Mauricio and Soltana, Ghanem and Sabetzadeh, Mehrdad and Briand, Lionel",
+    place=SSM,
+    ID='torre2021modeling',
+    category='ok',
+    cluster_id='17369369235234456410',
+    entrytype='article',
+    link='https://orbilu.uni.lu/bitstream/10993/48170/1/Modeling_Data_Protection_and_Privacy__Application_and_Experiencewith_GDPR.pdf',
+    number='6',
+    organization='Springer',
+    pp='2071--2087',
+    scholar='https://scholar.google.com/scholar?cites=17369369235234456410&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='WoO_5kplDPEJ',
+    scholar_ok=True,
+    volume='20',
+    forward_steps=1,
 ))

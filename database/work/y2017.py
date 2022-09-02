@@ -213,7 +213,7 @@ gutierrez2017a = DB(Work(
 
 hadziselimovic2017a = DB(Work(
     2017, "Linked Data Contracts to Support Data Protection and Data Ethics in the Sharing of Scientific Data.",
-    due="This approach extends prior ontologies that represent permission and prohibition relationships between agents to make it possible to represent the rights as the GDPR establishes. Although this produces an ontology, it is not relating to the provenance of the activities. In the conclusion section, the authors affirm they intend to integrate the approach with provenance; however, until this review, nothing was published. Additionally, that ontology was not made publicly available in this document.",
+    due="This approach extends prior ontologies that represent permission and prohibition relationships between agents to make it possible to represent the rights as the GDPR establishes. Although this produces an ontology, it is not relating to the provenance of the activities. In the conclusion section, the authors affirm they intend to integrate the approach with provenance; however, until this review, nothing was published. Additionally, the ontology was not made publicly available in this document.",
     display="hadziselimovic",
     authors="Hadziselimovic, Ensar and Fatema, Kaniz and Pandit, Harshvardhan J and Lewis, Dave",
     place=ISWC,
@@ -386,6 +386,24 @@ robol2017a = DB(Work(
     scholar_id='cIzxOc1aW5cJ',
     scholar_ok=True,
     backward_steps=1,
+))
+
+santos2017a = DB(Work(
+    2017, "Detecting and Editing Privacy Policy Pitfalls on the Web.",
+    due="Unrelated to provenance",
+    display="santos",
+    authors="Santos, Cristiana and Gangemi, Aldo and Alam, Mehwish",
+    place=JURIX,
+    ID='santos2017detecting',
+    category='unrelated',
+    cluster_id='5180264280713962620',
+    entrytype='inproceedings',
+    link='https://www.academia.edu/download/58656883/09paper.pdf',
+    pp='87--99',
+    scholar='https://scholar.google.com/scholar?cites=5180264280713962620&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='fKSZxur-40cJ',
+    scholar_ok=True,
+    forward_steps=1,
 ))
 
 schoenen2017a = DB(Work(

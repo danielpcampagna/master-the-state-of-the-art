@@ -52,6 +52,7 @@ agarwal2020b = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=6966634315383540663&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='t4t7wP90rmAJ',
     scholar_ok=True,
+    forward_steps=1,
 ))
 
 ahmed2020a = DB(Work(
@@ -70,6 +71,163 @@ ahmed2020a = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=2912405031957850186&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='SmjoK_LwaigJ',
     scholar_ok=True,
+    forward_steps=1,
+))
+
+besik2020a = DB(Work(
+    2020, "Managing Consent in Workflows under GDPR.",
+    due="This approach propose design patterns to manage the consent and revocation concepts under GDPR int the BPMN-based workflows.",
+    display="besik",
+    authors="Besik, Saliha Irem and Freytag, Johann-Christoph",
+    place=ZEUS,
+    ID='besik2020managing',
+    category='unrelated',
+    cluster_id='13384758688612161809',
+    entrytype='inproceedings',
+    link='https://drive.google.com/file/d/1CgtKQ5cA9Tgx5HwLaJ7ldQBBxjstoapr/view?usp=sharing',
+    pp='18--25',
+    scholar='https://scholar.google.com.br/scholar?cites=13384758688612161809&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='ERkNnxw3wLkJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+besik2020b = DB(Work(
+    2020, "A formal approach to build privacy-awareness into clinical workflows",
+    due="Unrelated to provenance",
+    display="besik",
+    authors="Besik, Saliha Irem and Freytag, Johann-Christoph",
+    place=SICS,
+    ID='besik2020formal',
+    category='unrelated',
+    cluster_id='12592508199741068993',
+    entrytype='article',
+    link='https://www.researchgate.net/profile/Saliha-Besik/publication/335415616_A_formal_approach_to_build_privacy-awareness_into_clinical_workflows/links/5d6ab506a6fdcc547d701a42/A-formal-approach-to-build-privacy-awareness-into-clinical-workflows.pdf?_sg%5B0%5D=started_experiment_milestone&_sg%5B1%5D=started_experiment_milestone&origin=journalDetail',
+    number='1',
+    organization='Springer',
+    pp='141--152',
+    scholar='https://scholar.google.com/scholar?cites=12592508199741068993&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='wZbCXH2Twa4J',
+    scholar_ok=True,
+    volume='35',
+    forward_steps=1,
+))
+
+bonatti2020a = DB(Work(
+    2020, "Machine understandable policies and GDPR compliance checking",
+    due="This document extends the introduction of the SPECIAL Usage Policy language.",
+    display="bonatti",
+    authors="Bonatti, Piero A and Kirrane, Sabrina and Petrova, Iliana M and Sauro, Luigi",
+    place=KI,
+    ID='bonatti2020machine',
+    category='ok',
+    cluster_id='7795439074256460816',
+    entrytype='article',
+    link='https://arxiv.org/pdf/2001.08930',
+    number='3',
+    organization='Springer',
+    pp='303--315',
+    scholar='https://scholar.google.com.br/scholar?cites=7795439074256460816&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='EJxBOYn2LmwJ',
+    scholar_ok=True,
+    volume='34',
+    forward_steps=1,
+))
+
+bonatti2020b = DB(Work(
+    2020, "Real-time reasoning in OWL2 for GDPR compliance",
+    due="Unrelated to provenance",
+    display="bonatti",
+    authors="Bonatti, Piero A and Ioffredo, Luca and Petrova, Iliana M and Sauro, Luigi and Siahaan, Ida R",
+    place=AIJ,
+    ID='bonatti2020real',
+    category='unrelated',
+    cluster_id='13307227039575282353',
+    entrytype='article',
+    link='https://www.sciencedirect.com/science/article/pii/S0004370220301399',
+    organization='Elsevier',
+    pp='103389',
+    scholar='https://scholar.google.com/scholar?cites=13307227039575282353&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='sZJb33zErLgJ',
+    scholar_ok=True,
+    volume='289',
+    forward_steps=1,
+))
+
+bonatti2020c = DB(Work(
+    2020, "Fast Compliance Checking with General Vocabularies",
+    due="It is not a peer-reviewed document",
+    display="bonatti",
+    authors="Bonatti, Piero A and Ioffredo, Luca and Petrova, Iliana M and Sauro, Luigi",
+    place=arXiv,
+    ID='bonatti2020fast',
+    category='unrelated',
+    cluster_id='3304166600643197150',
+    entrytype='article',
+    link='https://arxiv.org/pdf/2001.06322',
+    scholar='https://scholar.google.com/scholar?cites=3304166600643197150&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='3jgMXgTC2i0J',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+calbimonte2020a = DB(Work(
+    2020, "Decentralized Management of Patient Profiles and Trajectories through Semantic Web Agents.",
+    due="unrelated to GDPR",
+    display="calbimonte",
+    authors="Calbimonte, Jean-Paul and Calvaresi, Davide and Schumacher, Michael",
+    place=ISWC,
+    ID='calbimonte2020decentralized',
+    category='unrelated',
+    cluster_id='17487966082034576318',
+    entrytype='inproceedings',
+    link='http://ceur-ws.org/Vol-2759/paper2.pdf',
+    pp='19--29',
+    scholar='https://scholar.google.com.br/scholar?cites=17487966082034576318&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='vivAE3-8sfIJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+calvaresi2020a = DB(Work(
+    2020, "Personal data privacy semantics in multi-agent systems interactions",
+    due="It does not introduce new model",
+    display="calvaresi",
+    authors="Calvaresi, Davide and Schumacher, Michael and Calbimonte, Jean-Paul",
+    place=PAAMS,
+    ID='calvaresi2020personal',
+    category='unrelated',
+    cluster_id='9201580294061184118',
+    entrytype='inproceedings',
+    link='https://www.researchgate.net/profile/Davide-Calvaresi/publication/342592794_Personal_Data_Privacy_Semantics_in_Multi-Agent_Systems_Interactions/links/600803bd45851553a0585c5a/Personal-Data-Privacy-Semantics-in-Multi-Agent-Systems-Interactions.pdf',
+    organization='Springer',
+    pp='55--67',
+    scholar='https://scholar.google.com.br/scholar?cites=9201580294061184118&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='dlTAf4aUsn8J',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+calvaresi2020b = DB(Work(
+    2020, "Agent-based modeling for ontology-driven analysis of patient trajectories",
+    due="unrelated to GDPR",
+    display="calvaresi",
+    authors="Calvaresi, Davide and Schumacher, Michael and Calbimonte, Jean-Paul",
+    place=JMS,
+    ID='calvaresi2020agent',
+    category='unrelated',
+    cluster_id='14119741917926528207',
+    entrytype='article',
+    link='https://link.springer.com/article/10.1007/s10916-020-01620-8',
+    number='9',
+    organization='Springer',
+    pdfpage='',
+    pp='1--11',
+    scholar='https://scholar.google.com.br/scholar?cites=14119741917926528207&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='zxQ0-nZm88MJ',
+    scholar_ok=True,
+    volume='44',
+    forward_steps=1,
 ))
 
 campagna2020a = DB(Work(
@@ -88,6 +246,26 @@ campagna2020a = DB(Work(
     scholar_id='237sDF0u5NoJ',
     scholar_ok=True,
     start_set=True,
+))
+
+coleti2020a = DB(Work(
+    2020, "TR-Model. A Metadata Profile Application for Personal Data Transparency",
+    due="Unrelated to provenance",
+    display="coleti",
+    authors="Coleti, Thiago Adriano and Corrêa, Pedro Luiz Pizzigatti and Filgueiras, Lucia Vilela Leite and Morandini, Marcelo",
+    place=IEEEAccess,
+    ID='coleti2020tr',
+    category='unrelated',
+    cluster_id='7561164856535402313',
+    entrytype='article',
+    link='https://ieeexplore.ieee.org/iel7/6287639/8948470/09069871.pdf',
+    organization='IEEE',
+    pp='75184--75209',
+    scholar='https://scholar.google.com/scholar?cites=7561164856535402313&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='Scf1UWCn7mgJ',
+    scholar_ok=True,
+    volume='8',
+    forward_steps=1,
 ))
 
 cox2020a = DB(Work(
@@ -122,6 +300,7 @@ dealmine2020a = DB(Work(
     scholar_id='lJnKhgzQDtcJ',
     scholar_ok=True,
     volume='35',
+    forward_steps=1,
 ))
 
 debruyne2020a = DB(Work(
@@ -165,6 +344,44 @@ debruyne2020a = DB(Work(
 #     volume='24',
 # ))
 
+drozd2020a = DB(Work(
+    2020, "Privacy CURE: consent comprehension made easy",
+    due="Unrelated to provenance",
+    display="drozd",
+    authors="Drozd, Olha and Kirrane, Sabrina",
+    place=IFIP,
+    ID='drozd2020privacy',
+    category='unrelated',
+    cluster_id='13522251913565606948',
+    entrytype='inproceedings',
+    link='https://epub.wu.ac.at/7546/1/IFIP_SEC_2020_CR_paper_47%20%284%29.pdf',
+    organization='Springer',
+    pp='124--139',
+    scholar='https://scholar.google.com/scholar?cites=13522251913565606948&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='JJRsr3iwqLsJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+esteves2020a = DB(Work(
+    2020, "Challenges in the Digital Representation of Privacy Terms",
+    due="It does not introduce y model",
+    display="esteves",
+    authors="Esteves, Beatriz",
+    place=XAILA,
+    ID='esteves2020challenges',
+    category='unrelated',
+    cluster_id='8938408105963372018',
+    entrytype='incollection',
+    link='https://research.rug.nl/files/202201515/978_3_030_89811_3.pdf#page=320',
+    organization='Springer',
+    pp='313--327',
+    scholar='https://scholar.google.com/scholar?cites=8938408105963372018&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='8j1rjdCaC3wJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
 ezennaya2020a = DB(Work(
     2020, "DELIVERABLE: D6. 9",
     due="This paper does not present a provenance model.",
@@ -179,6 +396,26 @@ ezennaya2020a = DB(Work(
     scholar='https://scholar.google.com.br/scholar?cites=13698816542724749548&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='7Hha8BD5G74J',
     scholar_ok=True,
+    forward_steps=1,
+))
+
+fan2020a = DB(Work(
+    2020, "An empirical evaluation of GDPR compliance violations in Android mHealth apps",
+    due="Unrelated to provenance",
+    display="fan",
+    authors="Fan, Ming and Yu, Le and Chen, Sen and Zhou, Hao and Luo, Xiapu and Li, Shuyue and Liu, Yang and Liu, Jun and Liu, Ting",
+    place=ISSRE,
+    ID='fan2020empirical',
+    category='unrelated',
+    cluster_id='15238019065602953283',
+    entrytype='inproceedings',
+    link='https://arxiv.org/pdf/2008.05864',
+    organization='IEEE',
+    pp='253--264',
+    scholar='https://scholar.google.com/scholar?cites=15238019065602953283&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='Q9DkDZtReNMJ',
+    scholar_ok=True,
+    forward_steps=1,
 ))
 
 fernández2020a = DB(Work(
@@ -202,6 +439,136 @@ fernández2020a = DB(Work(
     backward_steps=1,
 ))
 
+gleim2020a = DB(Work(
+    2020, "FactDAG: formalizing data interoperability in an internet of production",
+    due="unrelated to GDPR",
+    display="gleim",
+    authors="Gleim, Lars and Pennekamp, Jan and Liebenberg, Martin and Buchsbaum, Melanie and Niemietz, Philipp and Knape, Simon and Epple, Alexander and Storms, Simon and Trauth, Daniel and Bergs, Thomas and others",
+    place=IEEEIoTJ,
+    ID='gleim2020factdag',
+    category='unrelated',
+    cluster_id='18096351834762530935',
+    entrytype='article',
+    link='https://jpennekamp.de/wp-content/papercite-data/pdf/gpl+20.pdf',
+    number='4',
+    organization='IEEE',
+    pp='3243--3253',
+    scholar='https://scholar.google.com/scholar?cites=18096351834762530935&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='d1CCeR0oI_sJ',
+    scholar_ok=True,
+    volume='7',
+    forward_steps=1,
+))
+
+gomes2020a = DB(Work(
+    2020, "A new conceptual framework for enhancing legal information retrieval at the Brazilian Superior Court of Justice",
+    due="unrelated to GDPR",
+    display="gomes",
+    authors="Gomes, Thiago and Ladeira, Marcelo",
+    place=MEDES,
+    ID='gomes2020new',
+    category='unrelated',
+    cluster_id='4768911695511146434',
+    entrytype='inproceedings',
+    link='https://dl.acm.org/doi/pdf/10.1145/3415958.3433087?casa_token=UlDn6IN9s7MAAAAA:uW50TDjXIMDgtVySXrZN75eAlvEHKyFhK7ABr_wH2SAuHaCB42mlpncrPctw2kO3PU7e9H__hSWiTA',
+    pp='26--29',
+    scholar='https://scholar.google.com/scholar?cites=4768911695511146434&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='ws8lmOuTLkIJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+gomes2020b = DB(Work(
+    2020, "Avaliacao de tecnicas de similaridade textual na uniformizacao de jurisprudencia",
+    due="unrelated to GDPR",
+    display="gomes",
+    authors="Gomes, Thiago Alencar",
+    place=Thesis,
+    ID='gomes2020avaliaccao',
+    category='unrelated',
+    cluster_id='5267737439574089623',
+    entrytype='article',
+    link='https://repositorio.unb.br/bitstream/10482/40798/1/2020_ThiagoAlencarGomes.pdf',
+    scholar='https://scholar.google.com/scholar?cites=5267737439574089623&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='l9_Wp0rDGkkJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+goram2020a = DB(Work(
+    2020, "Supporting Different Roles and Responsibilities in Developing and Using Context-Based Adaptive Personalized Collaboration Environments Compliant to the Law",
+    due="Not public available",
+    display="goram",
+    authors="Goram, Mandy and Veiel, Dirk",
+    place=HCII,
+    ID='goram2020supporting',
+    category='unrelated',
+    cluster_id='11469584500879961436',
+    entrytype='inproceedings',
+    link='https://link.springer.com/chapter/10.1007/978-3-030-50788-6_7',
+    organization='Springer',
+    pp='88--107',
+    scholar='https://scholar.google.com/scholar?cites=11469584500879961436&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='XK1GyFUmLJ8J',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+havur2020a = DB(Work(
+    2020, "Greater Control and Transparency in Personal Data Processing",
+    due="FIle not found",
+    display="havur",
+    authors="Havur, Giray and Vander Sande, Miel and Kirrane, Sabrina",
+    place=Book,
+    ID='havur2020greater',
+    category='nofile',
+    cluster_id='10515377579325548246',
+    entrytype='article',
+    link='https://epub.wu.ac.at/7661/1/ICISSP_2020_95.pdf',
+    organization='SciTePress',
+    scholar='https://scholar.google.com/scholar?cites=10515377579325548246&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='1mbODjIg7pEJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+jafta2020a = DB(Work(
+    2020, "An ontology for the South African Protection of Personal Information Act",
+    due="unrelated to GDPR",
+    display="jafta",
+    authors="Jafta, Y and Leenen, L and Chan, Ka Fai P",
+    place=ECCWS,
+    ID='jafta2020ontology',
+    category='unrelated',
+    cluster_id='10498878585289248604',
+    entrytype='inproceedings',
+    link='https://researchspace.csir.co.za/dspace/bitstream/handle/10204/11711/RS_23692_An%20ontology%20for%20the%20South%20African%20Protection%20of%20Personal%20Information%20Act_June_2020.pdf?sequence=1',
+    pp='158--166',
+    scholar='https://scholar.google.com/scholar?cites=10498878585289248604&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='XA8fqHKCs5EJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+janßen2020a = DB(Work(
+    2020, "Legal Requirement Elicitation, Analysis and Specification for a Data Transparency System",
+    due="The document is not publicly available",
+    display="janßen",
+    authors="Janßen, Christian and Kathmann, Jonas",
+    place=BIS,
+    ID='janssen2020legal',
+    category='nofile',
+    cluster_id='8321115404870169856',
+    entrytype='inproceedings',
+    link='https://link.springer.com/chapter/10.1007/978-3-030-53337-3_1',
+    organization='Springer',
+    pp='3--17',
+    scholar='https://scholar.google.com/scholar?cites=8321115404870169856&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='ADVRol-KenMJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
 jesus2020a = DB(Work(
     2020, "Towards an accountable web of personal information: The web-of-receipts",
     due="Unrelated to provenance",
@@ -219,6 +586,65 @@ jesus2020a = DB(Work(
     scholar_id='g8tFnvV3xTQJ',
     scholar_ok=True,
     volume='8',
+    forward_steps=1,
+))
+
+kaneen2020a = DB(Work(
+    2020, "Towards evaluating GDPR compliance in IoT applications",
+    due="Unrelated to provenance",
+    display="kaneen",
+    authors="Kaneen, Christos Karageorgiou and Petrakis, Euripides GM",
+    place=KES,
+    ID='kaneen2020towards',
+    category='unrelated',
+    cluster_id='15186200754538603845',
+    entrytype='article',
+    link='https://www.sciencedirect.com/science/article/pii/S1877050920321062/pdf?md5=37a06f2cc4333f741191550d73e23ccb&pid=1-s2.0-S1877050920321062-main.pdf',
+    organization='Elsevier',
+    pp='2989--2998',
+    scholar='https://scholar.google.com/scholar?cites=15186200754538603845&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='ReUKViA5wNIJ',
+    scholar_ok=True,
+    volume='176',
+    forward_steps=1,
+))
+
+krasnashchok2020a = DB(Work(
+    2020, "Towards privacy policy conceptual modeling",
+    due="FIle not found",
+    display="krasnashchok",
+    authors="Krasnashchok, Katsiaryna and Mustapha, Majd and Al Bassit, Anas and Skhiri, Sabri",
+    place=ICCM,
+    ID='krasnashchok2020towards',
+    category='nofile',
+    cluster_id='6843580838598019998',
+    entrytype='inproceedings',
+    link='https://link.springer.com/chapter/10.1007/978-3-030-62522-1_32',
+    organization='Springer',
+    pp='429--438',
+    scholar='https://scholar.google.com/scholar?cites=6843580838598019998&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='ngtOjINI-V4J',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+landuyt2020a = DB(Work(
+    2020, "The bigger picture: approaches to inter-organizational data protection impact assessment",
+    due="Unrelated to provenance",
+    display="landuyt",
+    authors="Landuyt, Dimitri Van and Sion, Laurens and Dewitte, Pierre and Joosen, Wouter",
+    place=ESORICS,
+    ID='landuyt2020bigger',
+    category='unrelated',
+    cluster_id='8386930348658693777',
+    entrytype='inproceedings',
+    link='https://lirias.kuleuven.be/retrieve/587299',
+    organization='Springer',
+    pp='283--293',
+    scholar='https://scholar.google.com/scholar?cites=8386930348658693777&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='kZa-W7dcZHQJ',
+    scholar_ok=True,
+    forward_steps=1,
 ))
 
 lee2020a = DB(Work(
@@ -238,6 +664,7 @@ lee2020a = DB(Work(
     scholar_id='6TurSQB2kNcJ',
     scholar_ok=True,
     volume='21',
+    forward_steps=1,
 ))
 
 leone2020a = DB(Work(
@@ -261,6 +688,63 @@ leone2020a = DB(Work(
     backward_steps=1,
 ))
 
+liang2020a = DB(Work(
+    2020, "Bart Custers et al.(2019): EU personal data protection in policy and practice",
+    due="FIle not found",
+    display="liang",
+    authors="Liang, Xue and Ye, Ning",
+    place=IJLD,
+    ID='liang2020bart',
+    category='nofile',
+    cluster_id='7693080838704074727',
+    entrytype='article',
+    link='https://www.degruyter.com/document/doi/10.1515/ijld-2020-2031/html?lang=de',
+    number='1',
+    organization='De Gruyter Mouton',
+    pp='119--125',
+    scholar='https://scholar.google.com/scholar?cites=7693080838704074727&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='5w9SW0NQw2oJ',
+    scholar_ok=True,
+    volume='5',
+    forward_steps=1,
+))
+
+lieber2020a = DB(Work(
+    2020, "EcoDaLo: Federating Advertisement Targeting with Linked Data",
+    due="unrelated to GDPR",
+    display="lieber",
+    authors="Lieber, Sven and Meester, Ben De and Verborgh, Ruben and Dimou, Anastasia",
+    place=SEMANTiCS,
+    ID='lieber2020ecodalo',
+    category='unrelated',
+    cluster_id='747378381377352212',
+    entrytype='inproceedings',
+    link='https://link.springer.com/chapter/10.1007/978-3-030-59833-4_6',
+    organization='Springer',
+    pp='87--103',
+    scholar='https://scholar.google.com/scholar?cites=747378381377352212&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='FLLNlq04XwoJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+linderoth2020a = DB(Work(
+    2020, "GDPR: Har maktmonopolet skiftats? En studie om hur informerade användare nyttjar sina rättigheter för att reglera sin spårbarhet online.",
+    due="It is not written in a valid language",
+    display="linderoth",
+    authors="Linderoth, Sofia and Hult, Caroline",
+    place=Thesis,
+    ID='linderoth2020gdpr',
+    category='lang',
+    cluster_id='9578356760727525671',
+    entrytype='article',
+    link='https://lup.lub.lu.se/student-papers/record/9017031/file/9017043.pdf',
+    scholar='https://scholar.google.com/scholar?cites=9578356760727525671&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='Jxkgv7ko7YQJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
 mahindrakar2020a = DB(Work(
     2020, "Automating GDPR compliance using policy integrated blockchain",
     due="Although this approach is laid under an ontology, this is not the main contrbution and probably can not contrute with our purposes",
@@ -278,6 +762,25 @@ mahindrakar2020a = DB(Work(
     scholar_id='ES4lbJz3SrIJ',
     scholar_ok=True,
     start_set=True,
+))
+
+matulevicius2020a = DB(Work(
+    2020, "A Method for Managing GDPR Compliance in Business Processes",
+    due="The document propose a extendend model to acheive compliance with GDPR",
+    display="matulevicius",
+    authors="Matulevicius, Raimundas and Tom, Jake and Kala, Kaspar and Sing, Eduard",
+    place=CAiSE,
+    ID='matulevivcius2020method',
+    category='ok',
+    cluster_id='14432861032546387089',
+    entrytype='inproceedings',
+    link='https://www.researchgate.net/profile/Raimundas-Matulevicius/publication/343930785_A_Method_for_Managing_GDPR_Compliance_in_Business_Processes/links/605b19a592851cd8ce623228/A-Method-for-Managing-GDPR-Compliance-in-Business-Processes.pdf',
+    organization='Springer',
+    pp='100--112',
+    scholar='https://scholar.google.com/scholar?cites=14432861032546387089&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='kUSB-aPSS8gJ',
+    scholar_ok=True,
+    forward_steps=1,
 ))
 
 pandit2020a = DB(Work(
@@ -316,6 +819,24 @@ pandit2020b = DB(Work(
     backward_steps=1,
 ))
 
+polst2020a = DB(Work(
+    2020, "Privacy ad Absurdum-How Workplace Privacy Dashboards Compromise Privacy",
+    due="Unrelated to provenance",
+    display="polst",
+    authors="Polst, Svenja and Feth, Denis",
+    place=JMC,
+    ID='polst2020privacy',
+    category='unrelated',
+    cluster_id='14951662729531472541',
+    entrytype='article',
+    link='https://dl.gi.de/bitstream/handle/20.500.12116/33518/muc2020-ws-403.pdf?sequence=1&isAllowed=y',
+    organization='Gesellschaft für Informatik eV',
+    scholar='https://scholar.google.com/scholar?cites=14951662729531472541&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='nborAwn6fs8J',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
 riva2020a = DB(Work(
     2020, "SoK: Engineering privacy-aware high-tech systems",
     due="Related to GDPR, but not address a solution for a GDPR requirement. It's a mapping",
@@ -327,10 +848,64 @@ riva2020a = DB(Work(
     cluster_id='10340662963669714270',
     entrytype='inproceedings',
     link='https://www.researchgate.net/profile/Nicola-Zannone/publication/343289494_SoK_Engineering_privacy-aware_high-tech_systems/links/5f496462458515a88b811fdf/SoK-Engineering-privacy-aware-high-tech-systems.pdf',
-    pdfpage='',
     pp='1--10',
     scholar='https://scholar.google.com/scholar?cites=10340662963669714270&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='XkWSoy1qgY8J',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+ryan2020a = DB(Work(
+    2020, "Design challenges for GDPR RegTech",
+    due="Document was not peer-reviewed",
+    display="ryan",
+    authors="Ryan, Paul and Crane, Martin and Brennan, Rob",
+    place=arXiv,
+    ID='ryan2020design',
+    category='unrelated',
+    cluster_id='6949005159114330798',
+    entrytype='article',
+    link='https://arxiv.org/pdf/2005.12138',
+    scholar='https://scholar.google.com.br/scholar?cites=6949005159114330798&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='rtJd81_Tb2AJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+ryan2020b = DB(Work(
+    2020, "GDPR Compliance tools: best practice from RegTech",
+    due="Unrelated to provenance",
+    display="ryan",
+    authors="Ryan, Paul and Crane, Martin and Brennan, Rob",
+    place=ICEIS,
+    ID='ryan2020gdpr',
+    category='unrelated',
+    cluster_id='9389496910784278285',
+    entrytype='inproceedings',
+    link='http://doras.dcu.ie/25928/1/Ryan2021_Chapter_GDPRComplianceToolsBestPractic.pdf',
+    organization='Springer',
+    pp='905--929',
+    scholar='https://scholar.google.com.br/scholar?cites=9389496910784278285&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='Da_sUrExToIJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+tang2020a = DB(Work(
+    2020, "SALKG: A Semantic Annotation System for Building a High-quality Legal Knowledge Graph",
+    due="Unrelated to provenance",
+    display="tang",
+    authors="Tang, Mingwei and Su, Cui and Chen, Haihua and Qu, Jingye and Ding, Junhua",
+    place=IEEEBD,
+    ID='tang2020salkg',
+    category='unrelated',
+    cluster_id='1517290038533935483',
+    entrytype='inproceedings',
+    link='https://www.researchgate.net/profile/Haihua-Chen-2/publication/350199334_SALKG_A_Semantic_Annotation_System_for_Building_a_High-quality_Legal_Knowledge_Graph/links/606c728d299bf13f5d5f7950/SALKG-A-Semantic-Annotation-System-for-Building-a-High-quality-Legal-Knowledge-Graph.pdf',
+    organization='IEEE',
+    pp='2153--2159',
+    scholar='https://scholar.google.com/scholar?cites=1517290038533935483&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='e9ENSEB_DhUJ',
     scholar_ok=True,
     forward_steps=1,
 ))
@@ -346,9 +921,27 @@ ujcich2020a = DB(Work(
     cluster_id='7364673729312880224',
     entrytype='phdthesis',
     link='https://www.ideals.illinois.edu/bitstream/handle/2142/108612/UJCICH-DISSERTATION-2020.pdf?sequence=1',
-    pdfpage='',
     scholar='https://scholar.google.com/scholar?cites=7364673729312880224&as_sdt=2005&sciodt=0,5&hl=en',
     scholar_id='YHZYsryTNGYJ',
+    scholar_ok=True,
+    forward_steps=1,
+))
+
+welsh2020a = DB(Work(
+    2020, "Towards a taxonomy for evaluating societal concerns of contact tracing apps",
+    due="Unrelated to provenance",
+    display="welsh",
+    authors="Welsh, Thomas and Rekanar, Kaavya and Abbas, Manzar and Chochlov, Muslim and Fitzgerald, Brian and Glynn, Liam and Johnson, Kevin and Laffey, John and McNicholas, Bairbre and Nuseibeh, Bashar and others",
+    place=BESC,
+    ID='welsh2020towards',
+    category='unrelated',
+    cluster_id='10426924253652837275',
+    entrytype='inproceedings',
+    link='https://scholar.archive.org/work/ez7amahh5ndhfkfndlqrhkdvra/access/wayback/https://ieeexplore.ieee.org/ielx7/9348100/9348278/09348293.pdf',
+    organization='IEEE',
+    pp='1--6',
+    scholar='https://scholar.google.com/scholar?cites=10426924253652837275&as_sdt=2005&sciodt=0,5&hl=en',
+    scholar_id='m-PhTl3gs5AJ',
     scholar_ok=True,
     forward_steps=1,
 ))

@@ -9,6 +9,4 @@ approach = Group(
     display="PrivOnto",
     approach_name="PrivOnto",
     category='unrelated',
-    useful=True,
-    not_directly_related_to_provenance=True,
 )
