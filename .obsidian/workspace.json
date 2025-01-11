@@ -40,14 +40,17 @@
             "id": "7805f8820ce77602",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": "mont2009a.md",
-                "bFile": "mont2009a.md",
-                "aRef": ""
+                "file": "obsidian/Canvas Literatura Snowball.canvas",
+                "viewState": {
+                  "x": 660,
+                  "y": -60,
+                  "zoom": -0.6342139627191833
+                }
               },
-              "icon": "diff",
-              "title": "Diff: mont2009a"
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas Literatura Snowball"
             }
           },
           {
@@ -156,11 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian/Canvas Literatura Snowball.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Canvas Literatura Snowball"
             }
           },
           {
@@ -257,10 +261,11 @@
   },
   "active": "7805f8820ce77602",
   "lastOpenFiles": [
+    "obsidian/works/bartolini2015b.md",
+    "obsidian/Canvas Literatura by Year.canvas",
     "Template/Untitled.md",
     "obsidian/Canvas Literatura Snowball.canvas",
     "obsidian/Canvas Literatura Snowball.canvas",
-    "obsidian/works/bartolini2015b.md",
     "obsidian/works/ryan2021a.md",
     "obsidian/works/torre2021a.md",
     "obsidian/works/pandit2020a.md",
@@ -274,7 +279,6 @@
     "obsidian/works/tom2018a.md",
     "obsidian/works/kirrane2018a.md",
     "obsidian/works/fatema2017a.md",
-    "obsidian/Canvas Literatura by Year.canvas",
     "2025-01-11.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
