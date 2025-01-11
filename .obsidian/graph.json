@@ -8,23 +8,44 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "ok",
+      "query": "[\"category\": ok]",
       "color": {
         "a": 1,
-        "rgb": 5431380
+        "rgb": 7462994
+      }
+    },
+    {
+      "query": "[\"category\": unrelated]",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "[\"category\": nofile]",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "[\"category\": lang]",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224441,
+  "scale": 0.713275462622454,
   "close": true
 }

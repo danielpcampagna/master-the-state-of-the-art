@@ -20,62 +20,52 @@
             }
           },
           {
-            "id": "d700b97d56e8c1a5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c5dcddd91862d674",
+            "id": "41b54fd7ce2fa0b1",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "obsidian/Canvas Literatura by Year.canvas",
                 "viewState": {
-                  "x": -120,
-                  "y": -48,
-                  "zoom": 0
+                  "x": 1264.6527030929628,
+                  "y": 228.6735700652362,
+                  "zoom": -2.6966078565500653
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "Canvas Literatura by Year"
             }
           },
           {
-            "id": "0e867ae06b0e02cf",
+            "id": "7805f8820ce77602",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "113e311a51811f5b",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "database/citations/rantos2018a.py",
-                "bFile": "database/citations/rantos2018a.py",
+                "aFile": "mont2009a.md",
+                "bFile": "mont2009a.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: rantos2018a.py"
+              "title": "Diff: mont2009a"
+            }
+          },
+          {
+            "id": "0ec4cad199713d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/works/bartolini2015b.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bartolini2015b"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 357.5
   },
   "right": {
     "id": "dcb79987b8c5d17b",
@@ -212,8 +202,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
             }
           },
           {
@@ -222,8 +212,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           },
           {
@@ -265,39 +255,42 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "113e311a51811f5b",
+  "active": "7805f8820ce77602",
   "lastOpenFiles": [
-    "obsidian/works/tankard2016a.md",
-    "obsidian/works/tang2020a.md",
-    "obsidian/works/tambou2019a.md",
-    "obsidian/works/talha9999a.md",
-    "obsidian/works/suárez2012a.md",
-    "obsidian/works/stoykov2019a.md",
-    "obsidian/works/spyns2002a.md",
-    "obsidian/works/smes2017a.md",
-    "obsidian/works/sion2021a.md",
-    "obsidian/works/sion2019a.md",
-    "obsidian/works/singh2018a.md",
-    "obsidian/works/silva2017a.md",
-    "obsidian/works/rantos2018a.md",
-    "obsidian/works/rahmouni2021a.md",
-    "obsidian/works/rahmouni2010a.md",
-    "obsidian/works/pullonen2019a.md",
-    "obsidian/works/privacy9999a.md",
-    "obsidian/works/poveda2014a.md",
-    "obsidian/works/palmirani2018c.md",
-    "obsidian/works/palmirani2018b.md",
-    "obsidian/works/palmirani2018a.md",
-    "obsidian/works/palmirani2011a.md",
-    "obsidian/works/palm2018a.md",
-    "obsidian/works/mohammadi2019a.md",
-    "obsidian/works/merscheid2019a.md",
-    "obsidian/works/jesus2020a.md",
-    "obsidian/works",
-    "obsidian/Untitled.canvas",
-    "obsidian",
+    "Template/Untitled.md",
+    "obsidian/Canvas Literatura Snowball.canvas",
+    "obsidian/Canvas Literatura Snowball.canvas",
+    "obsidian/works/bartolini2015b.md",
+    "obsidian/works/ryan2021a.md",
+    "obsidian/works/torre2021a.md",
+    "obsidian/works/pandit2020a.md",
+    "obsidian/works/matulevicius2020a.md",
+    "obsidian/works/campagna2020a.md",
+    "obsidian/works/bonatti2020a.md",
+    "obsidian/works/besik2019a.md",
+    "obsidian/works/ujcich2018a.md",
+    "obsidian/works/pandit2018g.md",
+    "obsidian/works/pandit2018f.md",
+    "obsidian/works/tom2018a.md",
+    "obsidian/works/kirrane2018a.md",
+    "obsidian/works/fatema2017a.md",
+    "obsidian/Canvas Literatura by Year.canvas",
+    "2025-01-11.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
+    "obsidian/works/pandit2020a 1.md",
+    "obsidian/works/chadwick2009a.md",
+    "obsidian/works/gordon2009a.md",
+    "obsidian/works/latif2009a.md",
+    "obsidian/works/mather2009a.md",
+    "obsidian/works/mont2009a.md",
+    "obsidian/Untitled.canvas",
+    "Template",
+    "obsidian/works/bonatti2018d.md",
+    "obsidian/works/bartolini2015a.md",
+    "obsidian/works/이용2020a.md",
+    "obsidian/works",
+    "obsidian",
     "notebooks/output/graph.svg"
   ]
 }
