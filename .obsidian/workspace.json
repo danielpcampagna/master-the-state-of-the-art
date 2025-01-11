@@ -1,0 +1,303 @@
+{
+  "main": {
+    "id": "aae94c117eba705e",
+    "type": "split",
+    "children": [
+      {
+        "id": "eda653e7788ddf1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7074e29f3ba25089",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d700b97d56e8c1a5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c5dcddd91862d674",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -120,
+                  "y": -48,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "0e867ae06b0e02cf",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": ""
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "113e311a51811f5b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "database/citations/rantos2018a.py",
+                "bFile": "database/citations/rantos2018a.py",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: rantos2018a.py"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "876e90178684c437",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7379f99bc75e449",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f098f8c58c99f8e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ddcc02ce2c47a0b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a0ed3f33a2545b63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dcb79987b8c5d17b",
+    "type": "split",
+    "children": [
+      {
+        "id": "268fd24dd2abbd79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eb0f9e24093e815",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian/works/pandit2020a.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for pandit2020a"
+            }
+          },
+          {
+            "id": "dbae194f3949949d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ead52468b79c1920",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "afdbdd7f6e93c2e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "5afa8f292e237616",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "90a574ac6254062f",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0b3660cc0c83d2aa",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b6e5d77feb749125",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "46a9968fefe2af36",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "113e311a51811f5b",
+  "lastOpenFiles": [
+    "obsidian/works/tankard2016a.md",
+    "obsidian/works/tang2020a.md",
+    "obsidian/works/tambou2019a.md",
+    "obsidian/works/talha9999a.md",
+    "obsidian/works/suárez2012a.md",
+    "obsidian/works/stoykov2019a.md",
+    "obsidian/works/spyns2002a.md",
+    "obsidian/works/smes2017a.md",
+    "obsidian/works/sion2021a.md",
+    "obsidian/works/sion2019a.md",
+    "obsidian/works/singh2018a.md",
+    "obsidian/works/silva2017a.md",
+    "obsidian/works/rantos2018a.md",
+    "obsidian/works/rahmouni2021a.md",
+    "obsidian/works/rahmouni2010a.md",
+    "obsidian/works/pullonen2019a.md",
+    "obsidian/works/privacy9999a.md",
+    "obsidian/works/poveda2014a.md",
+    "obsidian/works/palmirani2018c.md",
+    "obsidian/works/palmirani2018b.md",
+    "obsidian/works/palmirani2018a.md",
+    "obsidian/works/palmirani2011a.md",
+    "obsidian/works/palm2018a.md",
+    "obsidian/works/mohammadi2019a.md",
+    "obsidian/works/merscheid2019a.md",
+    "obsidian/works/jesus2020a.md",
+    "obsidian/works",
+    "obsidian/Untitled.canvas",
+    "obsidian",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "notebooks/output/graph.svg"
+  ]
+}
