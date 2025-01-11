@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"09470ab47c960f24","x":-10,"y":-165,"width":400,"height":400,"type":"file","file":"works/abdullah2012a.md"},
-		{"id":"177961a0f7467bc0","type":"file","file":"works/pandit2020a.md","x":-380,"y":-220,"width":220,"height":50},
-		{"id":"684ce3dc46fc3f96","type":"text","text":"asdasd","x":-335,"y":-195,"width":695,"height":85}
-	],
-	"edges":[]
-}

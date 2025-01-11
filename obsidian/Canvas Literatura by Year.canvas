@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"75062bcd4d80e3a8","type":"group","x":270,"y":-340,"width":360,"height":440,"label":"2018"},
+		{"id":"4288a2ca5f13242e","type":"group","x":-580,"y":-340,"width":360,"height":400,"label":"2015"},
+		{"id":"1653d2b92f05f41a","type":"group","x":-155,"y":-340,"width":360,"height":400,"label":"2017"},
+		{"id":"4795afb21d921e2b","type":"group","x":695,"y":-340,"width":360,"height":400,"label":"2019"},
+		{"id":"4d113258509efbb3","type":"group","x":1120,"y":-340,"width":360,"height":400,"label":"2020"},
+		{"id":"0d6555d70d9e67f5","type":"group","x":1545,"y":-340,"width":360,"height":400,"label":"2021"},
+		{"id":"fba872a003b0620a","type":"group","x":1970,"y":-340,"width":360,"height":400,"label":"2022"},
+		{"id":"0c82a318f1aa64af","type":"group","x":2395,"y":-340,"width":360,"height":400,"label":"2023"},
+		{"id":"9dd074725e4ac4f9","type":"group","x":2820,"y":-340,"width":360,"height":400,"label":"2024"},
+		{"id":"e253dd7100877e85","type":"file","file":"obsidian/works/fatema2017a.md","x":-140,"y":-300,"width":320,"height":52},
+		{"id":"dbe3268b8b992aa9","type":"file","file":"obsidian/works/bartolini2015b.md","x":-560,"y":-300,"width":320,"height":52},
+		{"id":"c60d8160a5dc4bff","type":"file","file":"obsidian/works/kirrane2018a.md","x":290,"y":-300,"width":320,"height":50},
+		{"id":"554aedfca2b68f87","type":"file","file":"obsidian/works/tom2018a.md","x":290,"y":-220,"width":320,"height":50},
+		{"id":"0c7de910babd485a","type":"file","file":"obsidian/works/pandit2018f.md","x":290,"y":-140,"width":320,"height":50},
+		{"id":"533720493e89c5ae","type":"file","file":"obsidian/works/pandit2018g.md","x":290,"y":-60,"width":320,"height":50},
+		{"id":"43ef468625bfe6f3","type":"file","file":"obsidian/works/ujcich2018a.md","x":290,"y":20,"width":320,"height":50},
+		{"id":"a3a46f7c031f7b95","type":"file","file":"obsidian/works/bonatti2020a.md","x":1140,"y":-300,"width":320,"height":50},
+		{"id":"ccf42d852f0b3d84","type":"file","file":"obsidian/works/campagna2020a.md","x":1140,"y":-220,"width":320,"height":50},
+		{"id":"b0d88690aae1c961","type":"file","file":"obsidian/works/matulevicius2020a.md","x":1140,"y":-140,"width":320,"height":50},
+		{"id":"17cd6549dcada405","type":"file","file":"obsidian/works/pandit2020a.md","x":1140,"y":-60,"width":320,"height":50},
+		{"id":"6defb7ddd7b4a67c","type":"file","file":"obsidian/works/torre2021a.md","x":1565,"y":-300,"width":320,"height":50},
+		{"id":"43491ffb92653b4a","type":"file","file":"obsidian/works/ryan2021a.md","x":1565,"y":-220,"width":320,"height":50},
+		{"id":"a3797831c65e08c5","type":"file","file":"obsidian/works/besik2019a.md","x":715,"y":-300,"width":320,"height":50}
+	],
+	"edges":[]
+}
