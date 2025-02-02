@@ -23,4 +23,4 @@ year: 2019
 
 # References
 
-[[teruel2018a|]]
+[[teruel2018a]]

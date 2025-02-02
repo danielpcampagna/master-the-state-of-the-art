@@ -94,5 +94,5 @@ Related work includes existing GDPR compliance tools that use predefined questio
 This work represents a significant step forward in automating the compliance process, reducing the need for manual checks and increasing the efficiency and accuracy of compliance assessments.
 # References
 
-[[bartolini2015b|]]
-[[pandit2019c|]]
+- [[bartolini2015b]]
+[[pandit2019c]]

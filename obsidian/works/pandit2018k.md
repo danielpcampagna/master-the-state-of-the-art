@@ -23,4 +23,4 @@ year: 2018
 
 # References
 
-[[fatema2017a|]]
+[[fatema2017a]]

@@ -22,5 +22,5 @@ year: 2020
 
 # References
 
-[[tom2018a|]]
-[[pandit2019c|]]
+[[tom2018a]]
+[[pandit2019c]]

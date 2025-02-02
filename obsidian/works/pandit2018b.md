@@ -31,4 +31,4 @@ year: 2018
 
 # References
 
-[[kirrane2018a|]]
+[[kirrane2018a]]

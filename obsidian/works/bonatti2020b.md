@@ -23,4 +23,4 @@ year: 2020
 
 # References
 
-[[bonatti2018b|]]
+[[bonatti2018b]]

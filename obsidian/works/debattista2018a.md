@@ -21,4 +21,4 @@ year: 2018
 
 # References
 
-[[pandit2018f|]]
+[[pandit2018f]]

@@ -21,4 +21,4 @@ year: 2020
 
 # References
 
-[[teruel2018a|]]
+[[teruel2018a]]

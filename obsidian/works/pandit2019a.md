@@ -35,5 +35,5 @@ year: 2019
 
 # References
 
-[[kirrane2018a|]]
-[[fatema2017a|]]
+[[kirrane2018a]]
+[[fatema2017a]]

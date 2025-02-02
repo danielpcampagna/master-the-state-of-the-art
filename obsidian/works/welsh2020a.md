@@ -23,4 +23,4 @@ year: 2020
 
 # References
 
-[[tom2018a|]]
+[[tom2018a]]

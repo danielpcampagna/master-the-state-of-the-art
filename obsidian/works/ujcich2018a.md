@@ -109,7 +109,7 @@ Related work includes the GDPR ontologies by Pandit and Lewis, and Bartolini et 
 [[tankard2016a|2. C. Tankard, “What the GDPR means for businesses,” Network Security, vol. 2016, no. 6, pp. 5–8, 2016.]]
 [[basin2018a|11. D. Basin, S. Debois, and T. Hildebrandt, “On purpose and by necessity: Compliance under the GDPR,” in Proceedings of Financial Cryptography and Data Security ’18, Mar. 2018.]]
 [[bartolini2015b|3. C. Bartolini, R. Muthuri, and C. Santos, “Using ontologies to model data protection requirements in workflows,” in Proceedings of New Frontiers in Artificial Intelligence. Springer, 2017, pp. 233–248.]]
-[[bartolini2015b|]]
+- [[bartolini2015b]]
 [[bates2017a|17. A. Bates, W. U. Hassan, K. Butler, A. Dobra, B. Reaves, P. Cable, T. Moyer, and N. Schear, “Transparent web service auditing via network provenance functions,” in Proceedings of the 26th International Conference on World Wide Web, 2017, pp. 887–8]]
 [[pasquier2015a|16. T. Pasquier, J. Singh, D. Eyers, and J. Bacon, “CamFlow: Managed data-sharing for cloud services,” IEEE Transactions on Cloud Computing, vol. 5, no. 3, pp. 472–484, July 2017.]]
 [[pandit2017a|8. H. J. Pandit and D. Lewis, “Modelling provenance for GDPR compliance using linked open data vocabularies,” in Proceedings of Society, Privacy and the Semantic Web - Policy and Technology ’17, 2017.]]

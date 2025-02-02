@@ -21,4 +21,4 @@ year: 2016
 
 # References
 
-[[bartolini2015b|]]
+- [[bartolini2015b]]

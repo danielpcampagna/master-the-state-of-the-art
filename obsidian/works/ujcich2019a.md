@@ -29,4 +29,4 @@ year: 2019
 
 # References
 
-[[ujcich2018a|]]
+[[ujcich2018a]]

@@ -22,4 +22,4 @@ year: 2021
 
 # References
 
-[[pandit2019c|]]
+[[pandit2019c]]

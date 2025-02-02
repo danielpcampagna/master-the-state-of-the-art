@@ -24,4 +24,4 @@ year: 2020
 
 # References
 
-[[bartolini2015b|]]
+- [[bartolini2015b]]

@@ -15,7 +15,7 @@ not_directly_related_to_provenance: true
 organization: Springer
 place: JSAI
 pp: 233--248
-scholar: https://scholar.google.com/scholar?cites=12787841822425963859&as_sdt=2005&sciodt=0,5&hl=en
+scholar: https://scholar.google.com/scholar?cites=10475230135825386165&as_sdt=2005&sciodt=0,5&hl=en
 scholar_id: U12VdWKKd7EJ
 scholar_ok: true
 useful: true

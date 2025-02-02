@@ -99,5 +99,5 @@ This approach advances the state-of-the-art by providing an integrated method fo
 Related works may include other GDPR compliance frameworks and business process management models. However, this approach differentiates itself by offering a detailed method for comparing `AS-IS compliance models` and defining compliance issues, providing businesses with actionable insights for achieving GDPR compliance.
 # References
 
-[[tom2018a|]]
-[[pandit2019c|]]
+[[tom2018a]]
+[[pandit2019c]]

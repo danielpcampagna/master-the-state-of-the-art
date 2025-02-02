@@ -19,4 +19,4 @@ year: 2020
 
 # References
 
-[[fatema2017a|]]
+[[fatema2017a]]

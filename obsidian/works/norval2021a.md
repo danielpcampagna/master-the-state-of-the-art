@@ -20,4 +20,4 @@ year: 2021
 
 # References
 
-[[ujcich2018a|]]
+[[ujcich2018a]]

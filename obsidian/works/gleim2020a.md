@@ -25,4 +25,4 @@ year: 2020
 
 # References
 
-[[kirrane2018a|]]
+[[kirrane2018a]]

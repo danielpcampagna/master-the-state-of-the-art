@@ -21,5 +21,5 @@ year: 2020
 
 # References
 
-[[kirrane2018a|]]
-[[pandit2019c|]]
+[[kirrane2018a]]
+[[pandit2019c]]

@@ -21,4 +21,4 @@ year: 2019
 
 # References
 
-[[kirrane2018a|]]
+[[kirrane2018a]]

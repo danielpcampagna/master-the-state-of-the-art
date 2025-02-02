@@ -19,5 +19,5 @@ year: 2021
 
 # References
 
-[[kirrane2018a|]]
-[[fatema2017a|]]
+[[kirrane2018a]]
+[[fatema2017a]]

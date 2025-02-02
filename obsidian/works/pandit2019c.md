@@ -26,5 +26,5 @@ year: 2019
 
 # References
 
-[[bonatti2018b|]]
-[[fatema2017a|]]
+[[bonatti2018b]]
+[[fatema2017a]]

@@ -78,4 +78,4 @@ Existing model-based approaches have limitations, such as different focus areas 
 While the model does not fully address all operational aspects of GDPR compliance, such as data retention and accuracy procedures, it provides a solid foundation for further development and integration with other compliance tools and methodologies.
 # References
 
-[[tom2018a|]]
+[[tom2018a]]

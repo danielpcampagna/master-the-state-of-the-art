@@ -63,7 +63,7 @@ However, the model still has insufficiencies in fully covering all compliance qu
 
 # References
 
-[[ujcich2018a|]]
+[[ujcich2018a]]
 [[regulation2016a|Council of European Union (2016). Council regulation (EU) no 2016/679. https://eur-lex.europa.eu/eli/reg/2016/679/oj.]]
 [[kuner2012a|Kuner, C. (2012). The european commission’s proposed data protection regulation: A copernican revolution in european data protection law. Bloomberg BNA Privacy and Security Law Report (2012) February, 6(2012):1–15.]]
 [[bonatti2017a|Bonatti, P., Kirrane, S., Polleres, A., and Wenning, R. (2017). Transparent personal data processing: The road ahead. In International Conference on Computer Safety, Reliability, and Security, pages 337–349. Springer.]]

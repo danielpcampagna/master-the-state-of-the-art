@@ -22,5 +22,5 @@ year: 2021
 
 # References
 
-[[bonatti2018b|]]
-[[pandit2019c|]]
+[[bonatti2018b]]
+[[pandit2019c]]

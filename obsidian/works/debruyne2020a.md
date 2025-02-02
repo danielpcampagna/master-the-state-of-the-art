@@ -28,6 +28,6 @@ year: 2020
 
 # References
 
-[[kirrane2018a|]]
-[[pandit2019c|]]
-[[fatema2017a|]]
+[[kirrane2018a]]
+[[pandit2019c]]
+[[fatema2017a]]

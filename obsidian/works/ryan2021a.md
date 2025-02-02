@@ -62,4 +62,4 @@ This approach advances the state-of-the-art by providing a method to span both g
 Related works have typically focused on developing detailed compliance graphs or models requiring full alignment of data sources. This approach diverges by offering a solution that integrates heterogeneous data sources at the metadata level, thus reducing the complexity and cost associated with compliance information integration. The use of well-established standards like DCAT-AP and DPV further enhances interoperability and scalability, setting a foundation for future research in automating and refining GDPR compliance processes.
 # References
 
-[[pandit2019c|]]
+[[pandit2019c]]
