@@ -1,0 +1,46 @@
+@keywords a, is, of, this.
+
+@prefix : <#>.
+
+davis1993a a     Work;
+    year        1993;
+    title       "What is a knowledge representation?";
+    due         "unrelated to GDPR";
+    display     "davis";
+    authors     "Davis; Randall and Shrobe; Howard and Szolovits; Peter";
+    place       AIMag;
+    ID          "davis1993knowledge";
+    category    "unrelated";
+    cluster_id  "4303085372536482837";
+    entrytype   "article";
+    link        "https://ojs.aaai.org/index.php/aimagazine/article/download/1029/947";
+    number      "1";
+    pdfpage     "";
+    pp          "17--17";
+    scholar     "https://scholar.google.com/scholar?cites=4303085372536482837&as_sdt=2005&sciodt=0;5&hl=en";
+    scholar_id  "FWw3_FihtzsJ";
+    scholar_ok  "true";
+    volume      "14";
+    related     "".
+
+bartolini2015a a Work.
+
+references a relation.
+cites a relation.
+
+
+
+
+citationA a cites.
+davis1993a citationA bartolini2015a.
+
+citationA = [
+    context "";
+    ref "aaa"
+].
+
+AIMag a Magazine;
+    acronyms "AIMag";
+    name     "AI Magazine".
+
+Magazine a Place.
