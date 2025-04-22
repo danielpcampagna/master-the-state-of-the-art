@@ -1,86 +1,184 @@
 {
   "main": {
-    "id": "d2ee26725363fede",
+    "id": "aae94c117eba705e",
     "type": "split",
     "children": [
       {
-        "id": "b6a0a2d99242a536",
+        "id": "eda653e7788ddf1f",
         "type": "tabs",
         "children": [
           {
-            "id": "79964dd4b28ec2b8",
+            "id": "7074e29f3ba25089",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7805f8820ce77602",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "obsidian/Canvas Literatura Workstation.canvas",
+                "viewState": {
+                  "x": 1741.388073738968,
+                  "y": 998.1406524879455,
+                  "zoom": -0.3333333333333334
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas Literatura Workstation"
+            }
+          },
+          {
+            "id": "e148e60022bcd63b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/works/mlacic2022a.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mlacic2022a"
+            }
+          },
+          {
+            "id": "b65decf0783d3803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/works/esteves2024a.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "esteves2024a"
+            }
+          },
+          {
+            "id": "ecfd382c977b4251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/works/esteves2024a.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "esteves2024a"
+            }
+          },
+          {
+            "id": "2ed07a26a384a41c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5f154e9283e3a2ed",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "database/work/y2001.py",
+                "bFile": "database/work/y2001.py",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: y2001.py"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "83614f5df431ba56",
+    "id": "876e90178684c437",
     "type": "split",
     "children": [
       {
-        "id": "23e868338779ecb6",
+        "id": "b7379f99bc75e449",
         "type": "tabs",
         "children": [
           {
-            "id": "587aa9f2cc49d335",
+            "id": "f098f8c58c99f8e2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "1d7a403000780189",
+            "id": "ddcc02ce2c47a0b2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "\"Framework to ",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "65676b5307afb1c0",
+            "id": "a0ed3f33a2545b63",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.5
   },
   "right": {
-    "id": "93ddf5f76c035309",
+    "id": "dcb79987b8c5d17b",
     "type": "split",
     "children": [
       {
-        "id": "68342520bfc5d058",
+        "id": "268fd24dd2abbd79",
         "type": "tabs",
         "children": [
           {
-            "id": "8f845d184ddefd19",
+            "id": "7eb0f9e24093e815",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian/Canvas Literatura Workstation.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,45 +186,124 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Canvas Literatura Workstation"
             }
           },
           {
-            "id": "4bbba17f4e787fcc",
+            "id": "dbae194f3949949d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian/Canvas Literatura Snowball.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Canvas Literatura Snowball"
             }
           },
           {
-            "id": "b093b5df8e8557bd",
+            "id": "ead52468b79c1920",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "f4ff8161f409d0db",
+            "id": "afdbdd7f6e93c2e5",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "5afa8f292e237616",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "90a574ac6254062f",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "0b3660cc0c83d2aa",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b6e5d77feb749125",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "46a9968fefe2af36",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "8f98859aae1d6c4f",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "e04264c1ff30155b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 548.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,14 +312,55 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "79964dd4b28ec2b8",
+  "active": "5afa8f292e237616",
   "lastOpenFiles": [
+    "notebooks/output/snowballing.provn",
+    "notebooks/output/place.pdf",
+    "notebooks/output/graph.svg",
+    "notebooks/Validate.ipynb",
+    "notebooks/SnowballingProvenance.ipynb",
+    "notebooks/SearchScholar.ipynb",
+    "notebooks/Progress.ipynb",
+    "notebooks/Place.ipynb",
+    "notebooks/output",
+    "notebooks/Insert.ipynb",
+    "notebooks/Index.ipynb",
+    "notebooks/Forward.ipynb",
+    "obsidian/Canvas Literatura Workstation.canvas",
+    "obsidian/works/mlacic2022a.md",
+    "obsidian/works/esteves2024a.md",
+    "obsidian/works/martinezgil2024a.md",
+    "obsidian/works/Untitled 5.md",
+    "obsidian/works/ryan2022c.md",
+    "obsidian/works/ryan2022b.md",
+    "obsidian/works/ryan2022a.md",
+    "obsidian/works/fang2024a.md",
+    "obsidian/works/pandit2024a.md",
+    "obsidian/works/ryan2021a.md",
+    "obsidian/works/torre2025a.md",
+    "obsidian/works/hassani2025a.md",
+    "obsidian/works/tom2023a.md",
+    "obsidian/works/kosenkov2024a.md",
+    "obsidian/works/torre2023a.md",
+    "obsidian/works/abualhaija2024b.md",
+    "obsidian/works/azeem2024a.md",
+    "obsidian/works/azeem2024b.md",
+    "obsidian/works/folorunso2024a.md",
+    "obsidian/works/boltz2022a.md",
+    "obsidian/works/boltz2022b.md",
+    "obsidian/works/abualhaija2024a.md",
+    "obsidian/works/guber2024a.md",
+    "obsidian/works/ye2023a.md",
+    "obsidian/works/islam2024a.md",
+    "obsidian/Canvas Literatura by Year.canvas",
+    "obsidian/Canvas Literatura Snowball.canvas",
+    "Untitled 1.canvas",
     "Untitled.canvas",
-    "works/pandit2020a.md",
-    "works/abdullah2012a.md",
-    "works/agarwal2020a.md"
+    "obsidian/Untitled.canvas"
   ]
 }

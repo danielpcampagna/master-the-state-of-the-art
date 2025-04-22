@@ -62,3 +62,4 @@ This work contributes to **access control and policy enforcement research**, pro
 
 - Akaichi, I., & Kirrane, S. (2025). A Comprehensive Review of Usage Control Frameworks. *Computer Science Review (Elsevier)*. [DOI: 10.1016/j.cosrev.2024.100698](https://doi.org/10.1016/j.cosrev.2024.100698)
 - [[fatema2017a]]
+- [[bonatti2020a]]

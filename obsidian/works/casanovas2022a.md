@@ -61,3 +61,4 @@ This work contributes to the **field of legal governance in digital environments
 - Casanovas, P., de Koker, L., & Hashmi, M. (2022). Law, Socio-Legal Governance, the Internet of Things, and Industry 4.0: A Middle-Out/Inside-Out Approach. *MDPI Journal*, 5, 64–91. [DOI:10.3390/j5010005](https://doi.org/10.3390/j5010005)
 
 - [[bartolini2015b]]
+- [[bonatti2020a]]
