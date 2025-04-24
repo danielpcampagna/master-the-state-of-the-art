@@ -267,7 +267,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -297,73 +299,14 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "90a574ac6254062f",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
-            }
-          },
-          {
-            "id": "0b3660cc0c83d2aa",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
-            }
-          },
-          {
-            "id": "b6e5d77feb749125",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
-            }
-          },
-          {
-            "id": "46a9968fefe2af36",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
-            }
-          },
-          {
-            "id": "8f98859aae1d6c4f",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
-            }
-          },
-          {
-            "id": "e04264c1ff30155b",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
-            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 494.5
+    "width": 494.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -377,8 +320,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "5afa8f292e237616",
+  "active": "fd4bd0baacea32b0",
   "lastOpenFiles": [
+    "scripts/extract_category_ok_works/works_ok/bartolini2015b.md",
+    "obsidian/Canvas MindMap.canvas",
     "scripts/extract_category_ok_works/works/unrelated/zhao2020a.md",
     "scripts/extract_category_ok_works/works/unrelated/zhao2019a.md",
     "scripts/extract_category_ok_works/works/unrelated/yeung2019a.md",
@@ -391,7 +336,6 @@
     "scripts/extract_category_ok_works/works/lang/wittner2022a.md",
     "scripts/extract_category_ok_works/works/lang/windrich2023a.md",
     "obsidian/works/filtz2021a.md",
-    "obsidian/Canvas MindMap.canvas",
     "Legal Knowledge Graph (LKG).md",
     "European Case Law Identifier (ECLI).md",
     "European Law Identifier (ELI).md",
@@ -408,7 +352,6 @@
     "obsidian/works/debruyne2019c.md",
     "obsidian/works/rantos2019b.md",
     "obsidian/works/besik2019a.md",
-    "obsidian/works/romero2021a.md",
     "database/citations/gurk2017a.py",
     "database/citations/garijo2017a.py",
     "database/citations/schoenen2017a.py",
