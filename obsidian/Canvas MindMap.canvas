@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"d530301bc9443f35","type":"file","file":"GDPRov.md","x":-173,"y":-520,"width":188,"height":69},
+		{"id":"43700e4d581886da","type":"file","file":"obsidian/works/debruyne2019c.md","x":-211,"y":-160,"width":265,"height":50},
+		{"id":"cc03a12648f9d9d9","type":"file","file":"The SPECIAL Usage Policy Language.md","x":330,"y":-557,"width":400,"height":84},
+		{"id":"4c6571ea7ad6efe1","type":"file","file":"obsidian/works/bonatti2018a.md","x":400,"y":-161,"width":260,"height":51},
+		{"id":"369a4b7039b5d6c2","type":"file","file":"SPECIAL project.md","x":365,"y":-840,"width":330,"height":50},
+		{"id":"053ca48a9cdf769a","type":"file","file":"obsidian/works/filtz2021a.md","x":971,"y":-523,"width":229,"height":50},
+		{"id":"d10a0664dad8801e","type":"file","file":"European Law Identifier (ELI).md","x":859,"y":-840,"width":453,"height":50},
+		{"id":"5f6b5aad1f879b03","type":"file","file":"European Case Law Identifier (ECLI).md","x":1360,"y":-840,"width":400,"height":79},
+		{"id":"585f7e8698cd8bb5","type":"file","file":"Legal Knowledge Graph (LKG).md","x":877,"y":-197,"width":483,"height":50}
+	],
+	"edges":[
+		{"id":"8cd852156d4e635c","fromNode":"43700e4d581886da","fromSide":"top","toNode":"d530301bc9443f35","toSide":"bottom","label":"used"},
+		{"id":"ae9b921372db364d","fromNode":"4c6571ea7ad6efe1","fromSide":"top","toNode":"cc03a12648f9d9d9","toSide":"bottom","label":"proposed"},
+		{"id":"6b647b4baac34004","fromNode":"cc03a12648f9d9d9","fromSide":"top","toNode":"369a4b7039b5d6c2","toSide":"bottom","label":"is part of"},
+		{"id":"9d6f1cf4b6f7a40a","fromNode":"053ca48a9cdf769a","fromSide":"top","toNode":"d10a0664dad8801e","toSide":"bottom","label":"used"},
+		{"id":"719eeb3f51e92ace","fromNode":"053ca48a9cdf769a","fromSide":"top","toNode":"5f6b5aad1f879b03","toSide":"bottom","label":"used"},
+		{"id":"4096b3990775f0d5","fromNode":"053ca48a9cdf769a","fromSide":"bottom","toNode":"585f7e8698cd8bb5","toSide":"top"}
+	]
+}

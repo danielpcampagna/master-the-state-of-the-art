@@ -1,8 +1,8 @@
 ---
 ID: talha2018t
 authors: Talha, Muhammad; Ahmed, Mansoor; Khan, Abid
-category: ok
-due: The paper proposes a hybrid data provenance model using blockchain and Semantic Web Technologies, relevant to GDPR compliance.
+category: unrelated
+due: The paper proposes a hybrid data provenance model using blockchain and Semantic Web Technologies, relevant to GDPR compliance. It does not propose a provenance model
 entrytype: preprint
 link: https://www.researchgate.net/publication/329829616
 name: Towards Semantic Blockchain for Providing Provenance for GDPR Compliance

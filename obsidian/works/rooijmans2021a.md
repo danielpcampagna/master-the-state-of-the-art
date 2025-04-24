@@ -1,18 +1,19 @@
 ---
 ID: rooijmans2021a
 authors: Anne-Loes Rooijmans
-category: ok
+category: unrelated
 cluster_id: "807402735392335088"
 display: rooijmans (GDPR Compliance Assessment)
-due: The thesis evaluates GDPR compliance in company responses to access and portability requests, proposing automated compliance assessment methods.
+due: The thesis does not propose or evolve existing semantic models
 entrytype: thesis
-link: ""
+link: https://libstore.ugent.be/fulltxt/RUG01/003/014/931/RUG01-003014931_2021_0001_AC.pdf
 name: "The Right of Access and the Right to Portability: Difference and GDPR Compliance Assessment"
 organization: Ghent University
 place: Master’s Thesis, Faculty of Engineering and Architecture
 pp: 1-110
 provenance_related: true
-related: GDPR compliance, data portability, automated compliance verification
+related:
+  - GDPR compliance, data portability, automated compliance verification
 forward_steps: 2
 ---
 

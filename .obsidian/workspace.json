@@ -6,106 +6,147 @@
       {
         "id": "eda653e7788ddf1f",
         "type": "tabs",
+        "dimension": 53.33723653395784,
         "children": [
           {
-            "id": "7074e29f3ba25089",
+            "id": "612ef37f0e4ecf86",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
           },
           {
-            "id": "7805f8820ce77602",
+            "id": "fd4bd0baacea32b0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "obsidian/Canvas MindMap.canvas",
+                "viewState": {
+                  "x": 907.0517019124621,
+                  "y": -335.1494169614628,
+                  "zoom": -0.7658050023088718
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas MindMap"
+            }
+          },
+          {
+            "id": "e21e58a18b542920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/works/bonatti2018a.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bonatti2018a"
+            }
+          },
+          {
+            "id": "5c669f6779e086a5",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "obsidian/Canvas Literatura Workstation.canvas",
+                "file": "obsidian/Canvas Literatura by Year.canvas",
                 "viewState": {
-                  "x": 1741.388073738968,
-                  "y": 998.1406524879455,
-                  "zoom": -0.3333333333333334
+                  "x": 1897.6077358344658,
+                  "y": 221.00813904446946,
+                  "zoom": -0.08990997768866726
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
-              "title": "Canvas Literatura Workstation"
-            }
-          },
-          {
-            "id": "e148e60022bcd63b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/works/mlacic2022a.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mlacic2022a"
-            }
-          },
-          {
-            "id": "b65decf0783d3803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/works/esteves2024a.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "esteves2024a"
-            }
-          },
-          {
-            "id": "ecfd382c977b4251",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/works/esteves2024a.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "esteves2024a"
-            }
-          },
-          {
-            "id": "2ed07a26a384a41c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "5f154e9283e3a2ed",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "database/work/y2001.py",
-                "bFile": "database/work/y2001.py",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: y2001.py"
+              "title": "Canvas Literatura by Year"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
+      },
+      {
+        "id": "70580450d5631669",
+        "type": "tabs",
+        "dimension": 46.66276346604216,
+        "children": [
+          {
+            "id": "42bafe1bd7a95451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/works/filtz2021a.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "filtz2021a"
+            }
+          },
+          {
+            "id": "84aca425a709274e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/works/bonatti2020a.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bonatti2020a"
+            }
+          },
+          {
+            "id": "565e671abb3177d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/works/debruyne2019c.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "debruyne2019c"
+            }
+          },
+          {
+            "id": "7f2b5ef47a13ca25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/works/besik2019a.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "besik2019a"
+            }
+          },
+          {
+            "id": "767c4116a6071f03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/works/tom2018a.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tom2018a"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Framework to ",
+                "query": "\"SPECIAL",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,12 +214,26 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1a698d23b43bd3c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scripts/extract_category_ok_works/works_ok/bartolini2015b.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bartolini2015b"
+            }
+          },
+          {
             "id": "7eb0f9e24093e815",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/Canvas Literatura Workstation.canvas",
+                "file": "obsidian/Canvas MindMap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Canvas Literatura Workstation"
+              "title": "Backlinks for Canvas MindMap"
             }
           },
           {
@@ -197,12 +252,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/Canvas Literatura Snowball.canvas",
+                "file": "obsidian/Canvas MindMap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Canvas Literatura Snowball"
+              "title": "Outgoing links from Canvas MindMap"
             }
           },
           {
@@ -223,9 +278,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "obsidian/Canvas MindMap.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Canvas MindMap"
             }
           },
           {
@@ -254,8 +314,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           },
           {
@@ -264,8 +324,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
             }
           },
           {
@@ -274,8 +334,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           },
           {
@@ -299,11 +359,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 548.5
+    "width": 494.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,50 +377,48 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "5afa8f292e237616",
+  "active": "fd4bd0baacea32b0",
   "lastOpenFiles": [
-    "notebooks/output/snowballing.provn",
-    "notebooks/output/place.pdf",
-    "notebooks/output/graph.svg",
-    "notebooks/Validate.ipynb",
-    "notebooks/SnowballingProvenance.ipynb",
-    "notebooks/SearchScholar.ipynb",
-    "notebooks/Progress.ipynb",
-    "notebooks/Place.ipynb",
-    "notebooks/output",
-    "notebooks/Insert.ipynb",
-    "notebooks/Index.ipynb",
-    "notebooks/Forward.ipynb",
+    "obsidian/works/filtz2021a.md",
+    "obsidian/Canvas MindMap.canvas",
+    "Legal Knowledge Graph (LKG).md",
+    "European Case Law Identifier (ECLI).md",
+    "European Law Identifier (ELI).md",
     "obsidian/Canvas Literatura Workstation.canvas",
-    "obsidian/works/mlacic2022a.md",
-    "obsidian/works/esteves2024a.md",
-    "obsidian/works/martinezgil2024a.md",
-    "obsidian/works/Untitled 5.md",
-    "obsidian/works/ryan2022c.md",
-    "obsidian/works/ryan2022b.md",
-    "obsidian/works/ryan2022a.md",
-    "obsidian/works/fang2024a.md",
-    "obsidian/works/pandit2024a.md",
-    "obsidian/works/ryan2021a.md",
-    "obsidian/works/torre2025a.md",
-    "obsidian/works/hassani2025a.md",
-    "obsidian/works/tom2023a.md",
-    "obsidian/works/kosenkov2024a.md",
-    "obsidian/works/torre2023a.md",
-    "obsidian/works/abualhaija2024b.md",
-    "obsidian/works/azeem2024a.md",
-    "obsidian/works/azeem2024b.md",
-    "obsidian/works/folorunso2024a.md",
-    "obsidian/works/boltz2022a.md",
-    "obsidian/works/boltz2022b.md",
-    "obsidian/works/abualhaija2024a.md",
-    "obsidian/works/guber2024a.md",
-    "obsidian/works/ye2023a.md",
-    "obsidian/works/islam2024a.md",
-    "obsidian/Canvas Literatura by Year.canvas",
     "obsidian/Canvas Literatura Snowball.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "obsidian/Untitled.canvas"
+    "obsidian/Canvas Literatura by Year.canvas",
+    "obsidian/works/rooijmans2021a.md",
+    "obsidian/works/bonatti2018a.md",
+    "obsidian/works/davarakis2021a.md",
+    "SPECIAL project.md",
+    "The SPECIAL Usage Policy Language.md",
+    "obsidian/works/bonatti2020a.md",
+    "GDPRov.md",
+    "obsidian/works/debruyne2019c.md",
+    "obsidian/works/rantos2019b.md",
+    "obsidian/works/besik2019a.md",
+    "obsidian/works/romero2021a.md",
+    "obsidian/works/tokas2022a.md",
+    "database/citations/gurk2017a.py",
+    "database/citations/garijo2017a.py",
+    "database/citations/schoenen2017a.py",
+    "database/citations/machuletz2019a.py",
+    "database/citations/garijo2014a.py",
+    "database/citations/regulation2016a.py",
+    "database/citations/leone2018a.py",
+    "database/citations/mont2010a.py",
+    "database/citations/w3c2015a.py",
+    "database/citations/harris2013a.py",
+    "obsidian/works/kirrane2018a.md",
+    "obsidian/works/vanezi2024a.md",
+    "obsidian/works/pandit2020a.md",
+    "obsidian/works/esteves2024a.md",
+    "obsidian/works/ruiz2023a.md",
+    "obsidian/works/torre2021a.md",
+    "obsidian/works/tom2018a.md",
+    "obsidian/works/matulevicius2020a.md",
+    "obsidian/works/bonatti2018b.md",
+    "notebooks/output/graph.svg",
+    "Untitled 1.canvas"
   ]
 }

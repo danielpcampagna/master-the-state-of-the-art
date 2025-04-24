@@ -1,8 +1,8 @@
 ---
 ID: rantos2019b
 authors: Rantos, Konstantinos; Drosatos, George; Kritsas, Antonios; Ilioudis, Christos; Papanikolaou, Alexandros; Filippidis, Adam P.
-category: ok
-due: This paper presents a blockchain-based platform (ADVOCATE) for GDPR-compliant consent management in IoT. The approach ensures data provenance, consent tracking, and regulatory compliance using blockchain smart contracts and digital signatures.
+category: unrelated
+due: This paper does not propose or extend a previous ontology in literature. Although it presents a blockchain-based platform (ADVOCATE) for GDPR-compliant consent management in IoT. The approach ensures data provenance, consent tracking, and regulatory compliance using blockchain smart contracts and digital signatures.
 entrytype: article
 link: https://doi.org/10.1155/2019/1431578
 name: A Blockchain-Based Platform for Consent Management of Personal Data Processing in the IoT Ecosystem

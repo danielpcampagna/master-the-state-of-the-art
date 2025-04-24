@@ -1,10 +1,10 @@
 ---
 ID: davarakis2021a
 authors: Davarakis, Costas; Blomqvist, Eva; Tiemann, Marco; Casanovas, Pompeu
-category: ok
+category: unrelated
 cluster_id: "807402735392335088"
 display: davarakis (SPIRIT - GDPR-compliant Identity Resolution)
-due: The paper presents a GDPR-compliant identity resolution and privacy-aware intelligence analysis framework for law enforcement.
+due: The paper does not present the provenance model
 entrytype: inproceedings
 link: https://doi.org/10.1007/978-3-030-89811-3_17
 name: SPIRIT - Semantic and Systemic Interoperability for Identity Resolution in Intelligence Analysis
@@ -12,7 +12,8 @@ organization: Springer
 place: Lecture Notes in Artificial Intelligence (LNAI) 13048
 pp: 247–259
 provenance_related: true
-related: GDPR compliance, identity resolution, privacy-aware intelligence analysis
+related:
+  - GDPR compliance, identity resolution, privacy-aware intelligence analysis
 forward_steps: 2
 ---
 ## **Summary & Analysis**

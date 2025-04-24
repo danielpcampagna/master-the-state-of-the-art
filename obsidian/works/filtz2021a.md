@@ -6,13 +6,14 @@ cluster_id: "807402735392335088"
 display: filtz (Legal Knowledge Graphs)
 due: The dissertation presents a structured legal knowledge graph for compliance tracking, supporting GDPR and AI regulatory applications.
 entrytype: thesis
-link: ""
+link: https://aic.ai.wu.ac.at/~polleres/supervised_theses/Erwin_Filtz_PhD_2021.pdf
 name: Knowledge Graphs for Analyzing and Searching Legal Data
 organization: WU Vienna
 place: PhD Dissertation
 pp: 1-200
 provenance_related: true
-related: Legal Knowledge Graphs, GDPR compliance, AI regulatory tracking
+related:
+  - Legal Knowledge Graphs, GDPR compliance, AI regulatory tracking
 forward_steps: 2
 ---
 ## **Summary & Analysis**
