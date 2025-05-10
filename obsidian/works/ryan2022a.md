@@ -4,7 +4,7 @@ authors: Paul Ryan; Rob Brennan
 category: ok
 cluster_id: "807402735392335088"
 display: ryan (Common Semantic Model for ROPA)
-due: The paper presents a machine-readable model for GDPR accountability, improving ROPA interoperability and compliance verification.
+due: The paper presents a machine-readable model for GDPR accountability, improving ROPA interoperability and compliance verification (CSM–ROPA); however, the model is not publicly available.
 entrytype: article
 link: https://doi.org/10.1007/s42979-022-01099-9
 name: Support for Enhanced GDPR Accountability with the Common Semantic Model for ROPA (CSM-ROPA)
@@ -12,7 +12,8 @@ organization: SN Computer Science
 place: SN Computer Science (2022)
 pp: 1-16
 provenance_related: true
-related: GDPR compliance, semantic web, ROPA automation
+related:
+  - GDPR compliance, semantic web, ROPA automation
 forward_steps: 2
 ---
 

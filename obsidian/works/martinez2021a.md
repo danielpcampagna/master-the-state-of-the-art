@@ -1,10 +1,10 @@
 ---
 ID: martinez2021a
 authors: Martínez-González, M.; Casanovas, P.; Alvite-Díez, M.L.; Casellas, N.
-category: ok
+category: unrelated
 cluster_id: "807402735392335088"
 display: martinez (OntoROPA - GDPR ROPA Compliance)
-due: The project presents a blockchain-supported semantic model for GDPR ROPA compliance and certification.
+due: Although the project presents a blockchain-supported semantic model for GDPR ROPA compliance and certification, it is not peer-reviewed and the paper does not public the ontology
 entrytype: report
 link: ""
 name: OntoROPA – State of the Art and Ambition
@@ -12,7 +12,8 @@ organization: ONTOCHAIN
 place: EU Horizon 2020
 pp: 1-45
 provenance_related: true
-related: GDPR compliance, ROPA certification, blockchain trust mechanisms
+related:
+  - GDPR compliance, ROPA certification, blockchain trust mechanisms
 forward_steps: 2
 alternative names:
   - "OntoROPA D1: State of the Art and Ambition"

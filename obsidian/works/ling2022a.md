@@ -1,8 +1,8 @@
 ---
 ID: ling2022a
 authors: Ling, Yuxi; Wang, Kailong; Bai, Guangdong; Wang, Haoyu; Dong, Jin Song
-category: ok
-due: This paper presents an end-to-end approach for diagnosing GDPR compliance violations in browser extensions, using NLP and hybrid static-dynamic analysis to verify compliance against privacy policies and runtime behaviors.
+category: unrelated
+due: This paper presents an end-to-end approach for diagnosing GDPR compliance violations in browser extensions, using NLP and hybrid static-dynamic analysis to verify compliance against privacy policies and runtime behaviors. It does not propose an semantic model.
 entrytype: conference
 link: https://doi.org/10.1145/3551349.3560436
 name: Are they Toeing the Line? Diagnosing Privacy Compliance Violations among Browser Extensions

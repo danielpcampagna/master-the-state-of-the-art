@@ -6,29 +6,18 @@
       {
         "id": "eda653e7788ddf1f",
         "type": "tabs",
-        "dimension": 53.33723653395784,
         "children": [
           {
             "id": "612ef37f0e4ecf86",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "fd4bd0baacea32b0",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "obsidian/Canvas MindMap.canvas",
                 "viewState": {
-                  "x": 907.0517019124621,
-                  "y": -335.1494169614628,
-                  "zoom": -0.7658050023088718
+                  "x": 1977.565804595087,
+                  "y": -606.1573594907935,
+                  "zoom": -0.4991328172904876
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -36,17 +25,51 @@
             }
           },
           {
-            "id": "e21e58a18b542920",
+            "id": "b392b794b73de2dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/works/bonatti2018a.md",
+                "file": "SmashHitCore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bonatti2018a"
+              "title": "SmashHitCore"
+            }
+          },
+          {
+            "id": "8cf35572379cda09",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "obsidian/Canvas Literatura Snowball.canvas",
+                "viewState": {
+                  "x": 1523.625,
+                  "y": 86.37499999999997,
+                  "zoom": -1.0443941193584536
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas Literatura Snowball"
+            }
+          },
+          {
+            "id": "e2d6e5f322b9d15c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "obsidian/Canvas Literatura Workstation.canvas",
+                "viewState": {
+                  "x": 6323.319406542312,
+                  "y": 1082.9524758484417,
+                  "zoom": -1.0625150795667644
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas Literatura Workstation"
             }
           },
           {
@@ -58,95 +81,32 @@
               "state": {
                 "file": "obsidian/Canvas Literatura by Year.canvas",
                 "viewState": {
-                  "x": 1897.6077358344658,
-                  "y": 221.00813904446946,
-                  "zoom": -0.08990997768866726
+                  "x": 2282.8159952839924,
+                  "y": 305.5438540393635,
+                  "zoom": -1.0899099776886672
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Canvas Literatura by Year"
             }
+          },
+          {
+            "id": "7ca69d24836c5ce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/works/ryan2022b.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ryan2022b"
+            }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "70580450d5631669",
-        "type": "tabs",
-        "dimension": 46.66276346604216,
-        "children": [
-          {
-            "id": "42bafe1bd7a95451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/works/filtz2021a.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "filtz2021a"
-            }
-          },
-          {
-            "id": "84aca425a709274e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/works/bonatti2020a.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bonatti2020a"
-            }
-          },
-          {
-            "id": "565e671abb3177d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/works/debruyne2019c.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "debruyne2019c"
-            }
-          },
-          {
-            "id": "7f2b5ef47a13ca25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/works/besik2019a.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "besik2019a"
-            }
-          },
-          {
-            "id": "767c4116a6071f03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/works/tom2018a.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tom2018a"
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -178,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"SPECIAL",
+                "query": "\"Marchetti",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,6 +174,40 @@
         "type": "tabs",
         "children": [
           {
+            "id": "528d86f43119757b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "obsidian/Canvas Literatura Snowball.canvas",
+                "viewState": {
+                  "x": 1623.0697962026127,
+                  "y": 447.2952783303184,
+                  "zoom": -1.1353518528948865
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas Literatura Snowball"
+            }
+          },
+          {
+            "id": "84aca425a709274e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "obsidian/Canvas Literatura Workstation.canvas",
+                "viewState": {
+                  "x": 6278.731288725274,
+                  "y": 1128.8045532506403,
+                  "zoom": -1.3333333333333328
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas Literatura Workstation"
+            }
+          },
+          {
             "id": "1a698d23b43bd3c9",
             "type": "leaf",
             "state": {
@@ -233,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/Canvas MindMap.canvas",
+                "file": "obsidian/works/lamari2022a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +237,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Canvas MindMap"
+              "title": "Backlinks for lamari2022a"
             }
           },
           {
@@ -252,12 +246,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/Canvas MindMap.canvas",
+                "file": "obsidian/works/lamari2022a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Canvas MindMap"
+              "title": "Outgoing links from lamari2022a"
             }
           },
           {
@@ -281,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/Canvas MindMap.canvas",
+                "file": "obsidian/works/lamari2022a.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Canvas MindMap"
+              "title": "Outline of lamari2022a"
             }
           },
           {
@@ -299,9 +293,28 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "2ab409b6a99942e8",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "5acdad41ea6670d5",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -320,48 +333,47 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "fd4bd0baacea32b0",
+  "active": "7ca69d24836c5ce7",
   "lastOpenFiles": [
-    "scripts/extract_category_ok_works/works_ok/bartolini2015b.md",
-    "obsidian/Canvas MindMap.canvas",
-    "scripts/extract_category_ok_works/works/unrelated/zhao2020a.md",
-    "scripts/extract_category_ok_works/works/unrelated/zhao2019a.md",
-    "scripts/extract_category_ok_works/works/unrelated/yeung2019a.md",
-    "scripts/extract_category_ok_works/works/unrelated/xie2014a.md",
-    "scripts/extract_category_ok_works/works/unrelated/wuyts2011a.md",
-    "scripts/extract_category_ok_works/works/ok/bonatti2020a.md",
-    "scripts/extract_category_ok_works/works/ok/bonatti2018d.md",
-    "scripts/extract_category_ok_works/works/ok/boltz2022a.md",
-    "scripts/extract_category_ok_works/works/lang/이용2020a.md",
-    "scripts/extract_category_ok_works/works/lang/wittner2022a.md",
-    "scripts/extract_category_ok_works/works/lang/windrich2023a.md",
-    "obsidian/works/filtz2021a.md",
-    "Legal Knowledge Graph (LKG).md",
-    "European Case Law Identifier (ECLI).md",
-    "European Law Identifier (ELI).md",
-    "obsidian/Canvas Literatura Workstation.canvas",
-    "obsidian/Canvas Literatura Snowball.canvas",
     "obsidian/Canvas Literatura by Year.canvas",
-    "obsidian/works/rooijmans2021a.md",
-    "obsidian/works/bonatti2018a.md",
-    "obsidian/works/davarakis2021a.md",
-    "SPECIAL project.md",
-    "The SPECIAL Usage Policy Language.md",
+    "obsidian/Canvas Literatura Snowball.canvas",
+    "SmashHitCore.md",
+    "obsidian/Canvas Literatura Workstation.canvas",
+    "obsidian/Canvas MindMap.canvas",
+    "obsidian/works/ryan2022b.md",
+    "obsidian/works/boltz2022a.md",
+    "obsidian/works/chhetri2022a.md",
+    "obsidian/works/ryan2022a.md",
+    "obsidian/works/tom2018a.md",
+    "obsidian/works/tokas2022a.md",
+    "obsidian/works/ling2022a.md",
+    "obsidian/works/mlacic2022a.md",
+    "obsidian/works/vojvodic2022a.md",
+    "obsidian/works/debackere2022a.md",
+    "obsidian/works/tolsdorf2022a.md",
+    "obsidian/works/negri2022a.md",
+    "obsidian/works/lamari2022a.md",
+    "scripts/extract_category_ok_works/works_ok/pandit2020a.md",
+    "GConsent.md",
+    "obsidian/works/ryan2021a.md",
+    "obsidian/works/filtz2021a.md",
+    "obsidian/works/gharib2022a.md",
+    "obsidian/works/kurteva2022a.md",
+    "obsidian/works/martinez2021a.md",
     "obsidian/works/bonatti2020a.md",
-    "GDPRov.md",
-    "obsidian/works/debruyne2019c.md",
-    "obsidian/works/rantos2019b.md",
-    "obsidian/works/besik2019a.md",
-    "database/citations/gurk2017a.py",
-    "database/citations/garijo2017a.py",
-    "database/citations/schoenen2017a.py",
-    "database/citations/machuletz2019a.py",
-    "database/citations/garijo2014a.py",
-    "database/citations/regulation2016a.py",
-    "database/citations/leone2018a.py",
-    "database/citations/mont2010a.py",
-    "database/citations/w3c2015a.py",
-    "database/citations/harris2013a.py",
+    "obsidian/works/torre2021a.md",
+    "database/citations/harkous2018a.py",
+    "database/citations/hintze2017a.py",
+    "database/citations/hoekstra2007a.py",
+    "database/citations/hoppe2018a.py",
+    "database/citations/joshi2019a.py",
+    "database/citations/kirrane2018a.py",
+    "database/citations/kuner2012a.py",
+    "database/citations/lebo2013a.py",
+    "database/citations/libertés2019a.py",
+    "database/citations/linden2018a.py",
+    "scripts/extract_category_ok_works/works/nofile/varela2025a.md",
+    "scripts/extract_category_ok_works/works/nofile/vinden2024a.md",
     "notebooks/output/graph.svg",
     "Untitled 1.canvas"
   ]

@@ -1,8 +1,8 @@
 ---
 ID: tolsdorf2022a
 authors: Tolsdorf, Jan
-category: ok
-due: This dissertation presents the Data Cart privacy pattern, a GDPR-compliant model for managing employee personal data. It provides structured mechanisms for privacy enforcement, access control, and data retention management in employment settings.
+category: unrelated
+due: This paper does not provide or extends a semantic model in the literature
 entrytype: phdthesis
 link: https://www.uni-goettingen.de
 name: Investigation of Information Privacy in Employment
@@ -12,6 +12,8 @@ year: 2022
 forward_steps: 2
 ---
 # Jan Tolsdorf. Investigation of Information Privacy in Employment. Georg-August-Universität Göttingen, 2022.
+
+This dissertation presents the Data Cart privacy pattern, a GDPR-compliant model for managing employee personal data. It provides structured mechanisms for privacy enforcement, access control, and data retention management in employment settings.
 
 ## Evaluation Summary
 

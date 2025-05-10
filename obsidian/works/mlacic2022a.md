@@ -1,10 +1,10 @@
 ---
 ID: mlacic2022a
 authors: Mlačić, Vinko
-category: ok
-due: This thesis presents an ontology-based framework for GDPR compliance, addressing security, data sensitivity, and privacy-enhancing technologies. It supports compliance automation and consulting use cases, directly addressing GDPR requirements such as data retention, security controls, and privacy mechanisms.
+category: unrelated
+due: This proposed model is not direct related to GDPR, but it provides a middle-level ontology, which has some dependency level with a concrete application.
 entrytype: thesis
-link: https://github.com/vinkomlacic/cyber-security-compliance-ontology
+link: https://www.utupub.fi/bitstream/handle/10024/154489/Master%20Thesis%20in%20Technology.pdf?sequence=1
 name: Data Protection Regulation Ontology for Compliance
 organization: University of Turku, Department of Computing (EIT Digital Master School)
 place: Finland
@@ -14,6 +14,7 @@ forward_steps: 2
 
 # Mlačić (2022) - Data Protection Regulation Ontology for Compliance
 
+This thesis presents an ontology-based framework for GDPR compliance, addressing security, data sensitivity, and privacy-enhancing technologies. It supports compliance automation and consulting use cases, directly addressing GDPR requirements such as data retention, security controls, and privacy mechanisms.
 ## Approach and Motivations
 
 The thesis introduces **a structured ontology** to assist consulting firms in **automating GDPR compliance processes**. It focuses on:

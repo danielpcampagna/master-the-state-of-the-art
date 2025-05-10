@@ -1,10 +1,10 @@
 ---
 ID: vojvodic2022a
-name: Data Governance, Customer-Centricity, and Data Processing Compliance
+name: Relation of Data Governance, Customer-Centricity, and Data Processing Compliance
 authors: Milomir Vojvodic, Christian Hitz
 year: 2022
-category: ok
-due: The paper discusses data governance frameworks with a strong emphasis on GDPR compliance, customer-centric data processing, and innovation-driven compliance management. It presents a structured approach to leveraging GDPR as a strategic advantage, making it relevant for GDPR-related compliance questions.
+category: unrelated
+due: Not related to data provenance.
 forward_steps: 2
 ---
 

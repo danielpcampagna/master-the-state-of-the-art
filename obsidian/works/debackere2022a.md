@@ -1,10 +1,10 @@
 ---
 ID: debackere2022e
 authors: Debackere, Laurens
-category: ok
-due: This paper presents a policy-oriented framework for enforcing GDPR compliance in the Solid ecosystem, focusing on access control, authentication, and data processing governance. The proposed model supports provenance tracking and policy enforcement for data protection obligations.
+category: unrelated
+due: This paper does not provide or extends a semantic model in the literature
 entrytype: mastersthesis
-link: https://biblio.ugent.be/publication/000000000
+link: https://libstore.ugent.be/fulltxt/RUG01/003/059/964/RUG01-003059964_2022_0001_AC.pdf
 name: "Enforcing Data Protection in Solid: A Policy-Oriented Framework"
 organization: Ghent University
 place: Belgium
@@ -12,6 +12,8 @@ year: 2022
 forward_steps: 2
 ---
 # Laurens Debackere. Enforcing Data Protection in Solid: A Policy-Oriented Framework. Ghent University, 2022.
+
+This paper presents a policy-oriented framework for enforcing GDPR compliance in the Solid ecosystem, focusing on access control, authentication, and data processing governance. The proposed model supports provenance tracking and policy enforcement for data protection obligations.
 
 ## Evaluation Summary
 

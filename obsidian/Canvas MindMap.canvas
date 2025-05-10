@@ -8,7 +8,11 @@
 		{"id":"053ca48a9cdf769a","type":"file","file":"obsidian/works/filtz2021a.md","x":971,"y":-523,"width":229,"height":50},
 		{"id":"d10a0664dad8801e","type":"file","file":"European Law Identifier (ELI).md","x":859,"y":-840,"width":453,"height":50},
 		{"id":"5f6b5aad1f879b03","type":"file","file":"European Case Law Identifier (ECLI).md","x":1360,"y":-840,"width":400,"height":79},
-		{"id":"585f7e8698cd8bb5","type":"file","file":"Legal Knowledge Graph (LKG).md","x":877,"y":-197,"width":483,"height":50}
+		{"id":"585f7e8698cd8bb5","type":"file","file":"Legal Knowledge Graph (LKG).md","x":877,"y":-197,"width":483,"height":50},
+		{"id":"3da2232f0f871930","type":"file","file":"obsidian/works/kurteva2022a.md","x":1800,"y":-523,"width":257,"height":50},
+		{"id":"ea1f28f9815d8cb1","type":"file","file":"GConsent.md","x":1800,"y":-830,"width":400,"height":59},
+		{"id":"59c66c62d774cf38","x":2424,"y":-523,"width":234,"height":50,"type":"file","file":"obsidian/works/chhetri2022a.md"},
+		{"id":"a9f9aeb86bff7416","x":2424,"y":-825,"width":256,"height":50,"type":"file","file":"SmashHitCore.md"}
 	],
 	"edges":[
 		{"id":"8cd852156d4e635c","fromNode":"43700e4d581886da","fromSide":"top","toNode":"d530301bc9443f35","toSide":"bottom","label":"used"},
@@ -16,6 +20,8 @@
 		{"id":"6b647b4baac34004","fromNode":"cc03a12648f9d9d9","fromSide":"top","toNode":"369a4b7039b5d6c2","toSide":"bottom","label":"is part of"},
 		{"id":"9d6f1cf4b6f7a40a","fromNode":"053ca48a9cdf769a","fromSide":"top","toNode":"d10a0664dad8801e","toSide":"bottom","label":"used"},
 		{"id":"719eeb3f51e92ace","fromNode":"053ca48a9cdf769a","fromSide":"top","toNode":"5f6b5aad1f879b03","toSide":"bottom","label":"used"},
-		{"id":"4096b3990775f0d5","fromNode":"053ca48a9cdf769a","fromSide":"bottom","toNode":"585f7e8698cd8bb5","toSide":"top"}
+		{"id":"4096b3990775f0d5","fromNode":"053ca48a9cdf769a","fromSide":"bottom","toNode":"585f7e8698cd8bb5","toSide":"top"},
+		{"id":"99b0589a59c1090e","fromNode":"3da2232f0f871930","fromSide":"top","toNode":"ea1f28f9815d8cb1","toSide":"bottom","label":"extended"},
+		{"id":"8110ea209c02fdda","fromNode":"59c66c62d774cf38","fromSide":"top","toNode":"a9f9aeb86bff7416","toSide":"bottom","label":"used"}
 	]
 }

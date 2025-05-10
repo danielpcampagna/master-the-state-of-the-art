@@ -1,9 +1,9 @@
 ---
 ID: boltz2022a
 authors: Boltz, Nicolas; Sterz, Leonie; Gerking, Christopher; Raabe, Oliver
-category: ok
+category: unrelated
 display: boltz (A Model-Based Framework for Simplified Collaboration of Legal and Software Experts in Data Protection Assessments)
-due: The paper presents a model-based framework for collaboration between legal and software experts in GDPR compliance, making it relevant for data provenance modeling.
+due: The paper doesn't propose a semantic model, yet it presents a model-based framework for collaboration between legal and software experts in GDPR compliance, making it relevant for data provenance modeling.
 entrytype: inproceedings
 link: https://doi.org/10.18420/inf2022_44
 name: A Model-Based Framework for Simplified Collaboration of Legal and Software Experts in Data Protection Assessments

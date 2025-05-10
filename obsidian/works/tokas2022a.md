@@ -1,10 +1,10 @@
 ---
 ID: tokas2022a
 authors: Tokas, Shukun; Owe, Olaf; Ramezanifarkhani, Toktam
-category: ok
+category: unrelated
 cluster_id: "807402735392335088"
 display: tokas (Static Checking of GDPR Compliance)
-due: The paper presents a formalized policy-based data provenance model for GDPR compliance in object-oriented distributed systems.
+due: The paper presents a formalized policy-based data provenance model for GDPR compliance in object-oriented distributed systems. Not related to semantic model.
 entrytype: article
 link: https://doi.org/10.1016/j.jlamp.2021.100733
 name: Static Checking of GDPR-related Privacy Compliance for Object-Oriented Distributed Systems
@@ -12,7 +12,8 @@ organization: Elsevier
 place: Journal of Logical and Algebraic Methods in Programming
 pp: 1-30
 provenance_related: true
-related: proposes a policy-based compliance framework
+related:
+  - proposes a policy-based compliance framework
 forward_steps: 2
 ---
 

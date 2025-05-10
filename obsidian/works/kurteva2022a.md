@@ -6,6 +6,8 @@ year: 2022
 category: ok
 due: The paper presents a semantic framework for representing consent using knowledge graphs. It introduces GConsent, a GDPR-compliant ontology that models consent states, assessment questions, and legal compliance requirements. The approach enhances transparency and auditability of consent-based data processing, making it highly relevant for GDPR-related compliance questions.
 forward_steps: 2
+url: https://www.researchgate.net/profile/Anelia-Kurteva/publication/367052478_Making_Sense_of_Consent_with_Knowledge_Graphs/links/63bfd0d5a99551743e60a486/Making-Sense-of-Consent-with-Knowledge-Graphs.pdf
+scholar: https://scholar.google.com/scholar?hl=pt-BR&as_sdt=0%2C5&q=Making+Sense+of+Consent+with+Knowledge+Graphs&btnG=
 ---
 
 ## **Evaluation Against Inclusion Criteria**

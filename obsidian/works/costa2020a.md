@@ -1,9 +1,9 @@
 ---
 ID: costa2020a
 authors: Costa Júnior, Eric Araújo da and Vilela, Jéssyka Flavyanne Ferreira
-category: ok
+category: unrelated
 display: costa (Análise de conformidade de processos de negócios em relação à LGPD)
-due: This undergraduate thesis proposes a method for business process modeling in compliance with Brazil’s LGPD, featuring a compliance questionnaire, modeling patterns, and a step-by-step methodology (LGPD4BP)
+due: Although this undergraduate thesis proposes a method for business process modeling in compliance with Brazil’s LGPD, featuring a compliance questionnaire, modeling patterns, and a step-by-step methodology (LGPD4BP); it does not directly proposed to GDPR.
 entrytype: thesis
 link: Not available
 name: Análise de conformidade de processos de negócios em relação a LGPD
