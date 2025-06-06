@@ -1,9 +1,9 @@
 ---
 ID: abualhaija2024a
 authors: Abualhaija, Sallam and Ceci, Marcello and Briand, Lionel
-category: ok
+category: unrelated
 display: "abualhaija (Legal Requirements Analysis: A Regulatory Compliance Perspective)"
-due: Proposes methods for structuring and analyzing requirements from regulations (e.g., GDPR) to ensure compliance, relevant to our set of data provenance approaches.
+due: This paper surveys existing approaches and explains the process behind the materialization of regulation towards software requirements that achieve compliance. It does not introduce or propose a new ontology model. However it serves as a middle of the path for explain the entirely process involved.
 entrytype: chapter
 link: https://arxiv.org/abs/2311.13871
 name: "Chapter 11: Legal Requirements Analysis: A Regulatory Compliance Perspective"

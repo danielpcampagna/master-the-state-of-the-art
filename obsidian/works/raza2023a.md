@@ -1,8 +1,8 @@
 ---
 ID: raza2023a
 authors: Raza, Hassan; Ahmed, Mansoor
-category: ok
-due: This paper presents a blockchain-based semantic data-sharing platform designed for GDPR compliance. It provides a data provenance model through Hyperledger Fabric, Consent Ontology, and Data Privacy Vocabulary, ensuring compliance with GDPR obligations such as data retention, security, and consent management.
+category: unrelated
+due: This paper extends the DPV vocabulary, but did not made publicly available the model. In addition, the extended model is designed to represent health-care use cases (domain specific).
 entrytype: article
 link: https://www.researchgate.net/publication/372690104
 name: "The Semantic Data Sharing Platform using Blockchain: A GDPR Perspective"
@@ -13,6 +13,8 @@ forward_steps: 2
 ---
 
 # Raza & Ahmed (2023) - The Semantic Data Sharing Platform using Blockchain: A GDPR Perspective
+
+This paper presents a blockchain-based semantic data-sharing platform designed for GDPR compliance. It provides a data provenance model through Hyperledger Fabric, Consent Ontology, and Data Privacy Vocabulary, ensuring compliance with GDPR obligations such as data retention, security, and consent management.
 
 ## Approach and Motivations
 

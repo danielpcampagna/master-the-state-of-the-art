@@ -1,7 +1,7 @@
 ---
 ID: abualhaija2024b
 authors: Abualhaija, Sallam; Ceci, Marcello; Briand, Lionel C.; Zetzsche, Dirk; Bodellini, Marco
-category: ok
+category: unrelated
 display: abualhaija (AI-enabled Regulatory Change Analysis of Legal Requirements)
 due: Proposes an AI-driven approach (MURCIA) to analyze regulatory changes affecting compliance requirements. The work is useful for identifying evolving compliance obligations but does not propose a data provenance model.
 entrytype: conference paper

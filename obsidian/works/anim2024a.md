@@ -1,10 +1,10 @@
 ---
 ID: anim2024a
 authors: Joseph Anim; Livio Robaldo; Adam Z. Wyner
-category: ok
+category: unrelated
 cluster_id: "807402735392335088"
 display: anim (SHACL-Based Automated Compliance Checking)
-due: The paper presents a SHACL-SPARQL-based compliance verification framework for regulatory governance.
+due: The paper presents a SHACL-SPARQL-based compliance verification framework for regulatory governance, however do not address GDPR requirements.
 entrytype: article
 link: https://doi.org/10.3390/info15120759
 name: A SHACL-Based Approach for Enhancing Automated Compliance Checking with RDF Data
@@ -12,7 +12,8 @@ organization: Information (MDPI)
 place: Information 2024, 15, 759
 pp: 1-27
 provenance_related: true
-related: Automated compliance checking, SHACL, RDF, GDPR compliance
+related:
+  - Automated compliance checking, SHACL, RDF, GDPR compliance
 forward_steps: 2
 ---
 

@@ -3,8 +3,8 @@ ID: ayappane2024a
 name: Consent Service Architecture for Policy-Based Consent Management in Data Trusts
 authors: Balambiga Ayappane, Rohith Vaidyanathan, Srinath Srinivasa, Santosh Kumar Upadhyaya, Srinivas Vivek
 year: 2024
-category: ok
-due: The paper introduces a policy-based consent management architecture designed for data trusts. It presents a structured model to enforce consent policies across regulatory frameworks, ensuring GDPR compliance and addressing data governance challenges.
+category: unrelated
+due: The paper is focused on the problem of designing policy-based consent architectures for data trusts. It does not introduce a semantic model for represent the law, yet it presents a structured model to enforce consent policies across regulatory frameworks, ensuring GDPR compliance and addressing data governance challenges.
 forward_steps: 2
 ---
 

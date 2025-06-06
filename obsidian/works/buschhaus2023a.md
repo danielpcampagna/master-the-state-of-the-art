@@ -1,9 +1,9 @@
 ---
 ID: buschhaus2023a
 authors: Buschhaus, Constantin and Butting, Arvid and Michael, Judith and Nitsch, Verena and Pütz, Sebastian and Rumpe, Bernhard and Stellmacher, Carolin and Theis, Sabine
-category: ok
+category: unrelated
 display: "buschhaus (Overcoming the Hurdle of Legal Expertise: A Reusable Model for Smartwatch Privacy Policies)"
-due: The paper proposes a conceptual model for smartwatch privacy policies, which can be compared against other approaches dealing with data provenance and compliance.
+due: Although this paper proposes a conceptual model for smartwatch privacy policies, which can be compared against other approaches dealing with data provenance and compliance, it does not directly connected with GDPR, which made difficult to compare the proposed model against the existing in literature.
 entrytype: article (preprint)
 link: https://ssrn.com/abstract=4701295
 name: "Overcoming the Hurdle of Legal Expertise: A Reusable Model for Smartwatch Privacy Policies"

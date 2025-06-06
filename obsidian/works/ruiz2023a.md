@@ -1,8 +1,8 @@
 ---
 ID: ruiz2023a
 authors: Ruiz, Alejandra; Martin, Yod-Samuel; Martinez, Jabier; Quintans, Jacobo; Mockly, Guillaume; Gyrard, Amelie; Crepax, Tommaso
-category: ok
-due: This paper proposes a reference framework modeling approach that aligns GDPR legal text with engineering guidelines (ISO/IEC 29134 & Smart Grid DPIA template), facilitating GDPR compliance assessment and impact analysis.
+category: unrelated
+due: This paper proposes a reference framework modeling approach that aligns GDPR legal text with engineering guidelines (ISO/IEC 29134 & Smart Grid DPIA template), facilitating GDPR compliance assessment and impact analysis. This have no relation with provenance or semantic model.
 entrytype: journal
 link: https://doi.org/10.1007/s10270-022-01061-6
 name: "Modeling ecosystems of reference frameworks for assurance: a case on privacy impact assessment regulation and guidelines"

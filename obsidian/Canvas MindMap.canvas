@@ -5,14 +5,22 @@
 		{"id":"cc03a12648f9d9d9","type":"file","file":"The SPECIAL Usage Policy Language.md","x":330,"y":-557,"width":400,"height":84},
 		{"id":"4c6571ea7ad6efe1","type":"file","file":"obsidian/works/bonatti2018a.md","x":400,"y":-161,"width":260,"height":51},
 		{"id":"369a4b7039b5d6c2","type":"file","file":"SPECIAL project.md","x":365,"y":-840,"width":330,"height":50},
-		{"id":"053ca48a9cdf769a","type":"file","file":"obsidian/works/filtz2021a.md","x":971,"y":-523,"width":229,"height":50},
 		{"id":"d10a0664dad8801e","type":"file","file":"European Law Identifier (ELI).md","x":859,"y":-840,"width":453,"height":50},
 		{"id":"5f6b5aad1f879b03","type":"file","file":"European Case Law Identifier (ECLI).md","x":1360,"y":-840,"width":400,"height":79},
-		{"id":"585f7e8698cd8bb5","type":"file","file":"Legal Knowledge Graph (LKG).md","x":877,"y":-197,"width":483,"height":50},
-		{"id":"3da2232f0f871930","type":"file","file":"obsidian/works/kurteva2022a.md","x":1800,"y":-523,"width":257,"height":50},
 		{"id":"ea1f28f9815d8cb1","type":"file","file":"GConsent.md","x":1800,"y":-830,"width":400,"height":59},
-		{"id":"59c66c62d774cf38","x":2424,"y":-523,"width":234,"height":50,"type":"file","file":"obsidian/works/chhetri2022a.md"},
-		{"id":"a9f9aeb86bff7416","x":2424,"y":-825,"width":256,"height":50,"type":"file","file":"SmashHitCore.md"}
+		{"id":"a9f9aeb86bff7416","type":"file","file":"SmashHitCore.md","x":2260,"y":-825,"width":256,"height":50},
+		{"id":"59c66c62d774cf38","type":"file","file":"obsidian/works/chhetri2022a.md","x":2271,"y":-523,"width":234,"height":50},
+		{"id":"3da2232f0f871930","type":"file","file":"obsidian/works/kurteva2022a.md","x":1872,"y":-523,"width":257,"height":50},
+		{"id":"053ca48a9cdf769a","type":"file","file":"obsidian/works/filtz2021a.md","x":1198,"y":-523,"width":229,"height":50},
+		{"id":"585f7e8698cd8bb5","type":"file","file":"Legal Knowledge Graph (LKG).md","x":1071,"y":-200,"width":483,"height":50},
+		{"id":"1c3b9652ef448b7f","type":"file","file":"obsidian/works/ryan2022b.md","x":3060,"y":-523,"width":240,"height":50},
+		{"id":"ec8ebc6fa4010a42","type":"file","file":"obsidian/works/ryan2022c.md","x":2629,"y":-523,"width":231,"height":50},
+		{"id":"3a4b566d7030c62b","type":"file","file":"DCAT.md","x":2868,"y":-811,"width":204,"height":50},
+		{"id":"09de8ef1c2a36558","type":"file","file":"DPCat.md","x":2888,"y":-320,"width":164,"height":50},
+		{"id":"009a69909da5e634","type":"file","file":"CSM-ROPA.md","x":2860,"y":-190,"width":220,"height":58},
+		{"id":"da977f9f41ff7a59","type":"file","file":"Revision of the Literature.md","x":3560,"y":-793,"width":400,"height":50},
+		{"id":"5eba220358067665","type":"file","file":"obsidian/works/esteves2024a.md","x":3450,"y":-523,"width":220,"height":50},
+		{"id":"8f0b50bcfd7fd390","x":1017,"y":49,"width":263,"height":50,"type":"file","file":"obsidian/works/pandit2018d.md"}
 	],
 	"edges":[
 		{"id":"8cd852156d4e635c","fromNode":"43700e4d581886da","fromSide":"top","toNode":"d530301bc9443f35","toSide":"bottom","label":"used"},
@@ -22,6 +30,15 @@
 		{"id":"719eeb3f51e92ace","fromNode":"053ca48a9cdf769a","fromSide":"top","toNode":"5f6b5aad1f879b03","toSide":"bottom","label":"used"},
 		{"id":"4096b3990775f0d5","fromNode":"053ca48a9cdf769a","fromSide":"bottom","toNode":"585f7e8698cd8bb5","toSide":"top"},
 		{"id":"99b0589a59c1090e","fromNode":"3da2232f0f871930","fromSide":"top","toNode":"ea1f28f9815d8cb1","toSide":"bottom","label":"extended"},
-		{"id":"8110ea209c02fdda","fromNode":"59c66c62d774cf38","fromSide":"top","toNode":"a9f9aeb86bff7416","toSide":"bottom","label":"used"}
+		{"id":"8110ea209c02fdda","fromNode":"59c66c62d774cf38","fromSide":"top","toNode":"a9f9aeb86bff7416","toSide":"bottom","label":"used"},
+		{"id":"88aa5a839577c35f","fromNode":"ec8ebc6fa4010a42","fromSide":"bottom","toNode":"09de8ef1c2a36558","toSide":"left","label":"proposed"},
+		{"id":"38c6153b89f73664","fromNode":"1c3b9652ef448b7f","fromSide":"bottom","toNode":"09de8ef1c2a36558","toSide":"right","label":"proposed"},
+		{"id":"050fc5258b03919f","fromNode":"ec8ebc6fa4010a42","fromSide":"top","toNode":"3a4b566d7030c62b","toSide":"bottom","label":"extended"},
+		{"id":"45dcc68cc6eb81cf","fromNode":"1c3b9652ef448b7f","fromSide":"top","toNode":"3a4b566d7030c62b","toSide":"bottom","label":"extended"},
+		{"id":"c1e5c42cccaf773b","fromNode":"09de8ef1c2a36558","fromSide":"top","toNode":"3a4b566d7030c62b","toSide":"bottom","label":"extends"},
+		{"id":"66ccb3b0659e3e29","fromNode":"ec8ebc6fa4010a42","fromSide":"bottom","toNode":"009a69909da5e634","toSide":"left","label":"proposed"},
+		{"id":"5bda48e80f64150c","fromNode":"1c3b9652ef448b7f","fromSide":"bottom","toNode":"009a69909da5e634","toSide":"right","label":"proposed"},
+		{"id":"75b0f205978e257c","fromNode":"5eba220358067665","fromSide":"top","toNode":"da977f9f41ff7a59","toSide":"bottom","label":"is a"},
+		{"id":"2b09699c64da7a94","fromNode":"8f0b50bcfd7fd390","fromSide":"top","toNode":"4c6571ea7ad6efe1","toSide":"bottom","label":"was influenced by"}
 	]
 }

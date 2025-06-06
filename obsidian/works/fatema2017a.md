@@ -1,15 +1,13 @@
 ---
 ID: fatema2017compliance
-authors: Fatema, Kaniz and Hadziselimovic, Ensar and Pandit, Harshvardhan J and Debruyne,
-  Christophe and Lewis, Dave and O'Sullivan, Declan
+authors: Fatema, Kaniz and Hadziselimovic, Ensar and Pandit, Harshvardhan J and Debruyne, Christophe and Lewis, Dave and O'Sullivan, Declan
 category: ok
-cluster_id: '7851795297572476037'
+cluster_id: "7851795297572476037"
 display: fatema
 due: This approach presents an ontology to represent the activities, consent and permissions.
 entrytype: inproceedings
 link: http://www.tara.tcd.ie/bitstream/handle/2262/82659/88248c5b669175f267069c3319d9ac2d3e84.pdf?sequence=1
-name: 'Compliance through Informed Consent: Semantic Based Consent Permission and
-  Data Management Model.'
+name: "Compliance through Informed Consent: Semantic Based Consent Permission and Data Management Model."
 place: ISWC
 scholar: https://scholar.google.com.br/scholar?cites=7851795297572476037&as_sdt=2005&sciodt=0,5&hl=en
 scholar_id: hdTj-Dgu92wJ
@@ -17,7 +15,6 @@ scholar_ok: true
 start_set: true
 summary: focused in the representation of consent and permissions
 year: 2017
-
 ---
 # Fatema, Kaniz and Hadziselimovic, Ensar and Pandit, Harshvardhan J and Debruyne, Christophe and Lewis, Dave and O'Sullivan, Declan. Compliance through Informed Consent: Semantic Based Consent Permission and Data Management Model. 2017. ISWC
 

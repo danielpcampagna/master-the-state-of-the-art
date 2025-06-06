@@ -1,8 +1,11 @@
 ---
 ID: doan2024a
 authors: Doan, Xengie Cheng
-category: ok
-due: This dissertation presents a user-centered framework for collective consent in genomic data sharing, integrating GDPR compliance tracking, business process modeling (BPMN), and contextual integrity methodologies. The model enhances transparency, policy validation, and user engagement for consent processes.
+category: unrelated
+due: |-
+  This dissertation advocates for the importance of the a user-centered framework for collective consent in genomic data sharing, integrating GDPR compliance tracking, using of business process modeling (BPMN), and employing contextual integrity methodologies. The model enhances transparency, policy validation, and user engagement for consent processes.
+
+  It does not propose a semantic model that we can evaluate.
 entrytype: phdthesis
 link: https://orbilu.uni.lu
 name: "A Framework for User-Centered, Legal-Ethical Collective Consent Models: Genomic Data Sharing"

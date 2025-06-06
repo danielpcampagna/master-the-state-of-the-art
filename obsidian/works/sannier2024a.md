@@ -1,9 +1,9 @@
 ---
 ID: sannier2024a
 authors: Sannier, Nicolas; Ceci, Marcello; Abualhaija, Sallam; Bianculli, Domenico; Halling, Michael
-category: ok
+category: unrelated
 display: sannier (A Model Toward Formalizing and Monitoring Compliance of Investment Funds Activities)
-due: The paper proposes a conceptual model for compliance monitoring in investment funds, integrating regulatory requirements and fund policies, making it relevant for data provenance modeling.
+due: The paper proposes a conceptual model for compliance monitoring in investment funds, integrating regulatory requirements and fund policies, making it relevant for data provenance modeling. Not related to GDPR
 entrytype: inproceedings
 link: ""
 name: A Model Toward Formalizing and Monitoring Compliance of Investment Funds Activities

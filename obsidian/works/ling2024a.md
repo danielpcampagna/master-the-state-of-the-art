@@ -1,8 +1,11 @@
 ---
 ID: ling2024a
 authors: Ling, Yuxi; Hao, Yun; Wang, Yuyan; Wang, Kailong; Bai, Guangdong; Dong, Jin Song
-category: ok
-due: This paper presents MINDAEXT, an end-to-end compliance auditing framework that examines data minimization practices in browser extensions, directly supporting GDPR's data minimization principle and compliance tracking.
+category: unrelated
+due: |-
+  This paper presents MINDAEXT, an end-to-end compliance auditing framework that examines data minimization practices in browser extensions, directly supporting GDPR's data minimization principle and compliance tracking.
+
+  Since it does not propose a semantic model we cannot symbolic compare this paper with the current literature.
 entrytype: conference
 link: https://arxiv.org/abs/2024010163
 name: "Essential or Excessive? MINDAEXT: Measuring Data Minimization Practices among Browser Extensions"

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tom2018a & path:obsidian/works ",
+  "search": "[\"category\":unrelated]",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10.6463821892393,
   "linkStrength": 0.893209647495362,
   "linkDistance": 70,
-  "scale": 1.24145438994832,
+  "scale": 0.11660891579457452,
   "close": false
 }

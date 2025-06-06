@@ -1,9 +1,9 @@
 ---
 ID: kosenkov2024a
 authors: Kosenkov, Oleksandr; Unterkalmsteiner, Michael; Mendez, Daniel; Fucci, Davide; Gorschek, Tony; Fischbach, Jannik
-category: ok
+category: unrelated
 display: kosenkov (On Developing an Artifact-Based Approach to Regulatory Requirements Engineering)
-due: The paper presents the Artifact Model for Regulatory Requirements Engineering (AM4RRE), which formalizes regulatory requirements and legal knowledge, making it relevant for data provenance modeling.
+due: The paper presents the Artifact Model for Regulatory Requirements Engineering (AM4RRE), which formalizes regulatory requirements and legal knowledge, making it relevant for data provenance modeling. However, it does not introduce a new semantic model or extend a previous one.
 entrytype: inproceedings
 link: ""
 name: On Developing an Artifact-Based Approach to Regulatory Requirements Engineering
@@ -17,6 +17,7 @@ related:
   - Legal Knowledge Management
   - Artifact-Based Modeling
   - GDPR Compliance
+  - requirements engineering
 year: 2024
 forward_steps: 2
 ---

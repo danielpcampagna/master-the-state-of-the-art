@@ -1,7 +1,7 @@
 ---
 ID: reis2023a
 authors: Reis, Daniel Bruno de Castro
-category: ok
+category: unrelated
 display: reis (Impact of Privacy and Data Protection Laws on Software Engineering Activities)
 due: The paper presents a systematic literature review on how privacy and data protection laws impact software engineering processes, making it relevant for data provenance modeling.
 entrytype: thesis

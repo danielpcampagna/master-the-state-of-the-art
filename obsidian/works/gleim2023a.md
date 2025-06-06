@@ -1,11 +1,11 @@
 ---
 ID: gleim2023s
 authors: Gleim, Lars Christoph
-category: ok
-due: This paper presents a data provenance model (FactDAG) that supports GDPR-related obligations such as data lifecycle management, retention policies, and accountability. It provides a structured model for tracking data activities and ensuring compliance.
+category: unrelated
+due: This paper is more focused in This paper presents a data provenance model (FactDAG) that supports GDPR-related obligations such as data lifecycle management, retention policies, and accountability. It provides a structured model for tracking data activities and ensuring compliance.
 entrytype: phdthesis
 link: https://publications.rwth-aachen.de/record/956518
-name: Sustainable Data Management in the Internet of Production
+name: "An Approach for Global and Local\r Data Lifecycle Management with\r Provenance and Persistent Identifiers"
 organization: RWTH Aachen University
 place: Germany
 year: 2023

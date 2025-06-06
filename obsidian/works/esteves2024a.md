@@ -1,7 +1,7 @@
 ---
 ID: esteves2024a
 authors: Esteves, Beatriz; Rodríguez-Doncel, Víctor
-category: ok
+category: unrelated
 due: The paper systematically analyzes GDPR information flows and maps them to privacy-related ontologies and policy languages, providing a structured approach to compliance modeling. The paper systematically analyzes GDPR-related ontologies and policy languages but does not propose a standalone data provenance model.
 name: Analysis of Ontologies and Policy Languages to Represent Information Flows in GDPR
 forward_steps: 2
@@ -10,6 +10,8 @@ link: https://doi.org/10.3233/SW-223009
 organization: Universidad Politécnica de Madrid
 place: Semantic Web Journal, IOS Press
 year: 2024
+related:
+  - Systematic Literature Review
 ---
 
 # Esteves, Beatriz & Rodríguez-Doncel, Víctor. *Analysis of Ontologies and Policy Languages to Represent Information Flows in GDPR.* 2024.

@@ -1,8 +1,11 @@
 ---
 ID: gruenewald2024a
 authors: Grünewald, Elias
-category: ok
-due: This dissertation presents a Cloud Native Privacy Engineering framework that integrates GDPR compliance tracking through structured transparency and accountability tools, such as TILT, TIRA, Teiresias, and Hawk. These tools provide automated data provenance tracking, regulatory auditing, and compliance verification.
+category: unrelated
+due: |-
+  This dissertation presents a Cloud Native Privacy Engineering framework that integrates GDPR compliance tracking through structured transparency and accountability tools, such as TILT, TIRA, Teiresias, and Hawk. These tools provide automated data provenance tracking, regulatory auditing, and compliance verification.
+
+  This paper does not introduce a new model or extends previous ones. Actually, it is concerned with the viability of consent use in practices. Hence, it proposes a hole architecture to demonstrate this feasibility.
 entrytype: phdthesis
 link: https://orcid.org/0000-0001-9076-9240
 name: Cloud Native Privacy Engineering for Transparency and Accountability

@@ -1,9 +1,9 @@
 ---
 ID: cambronero2024a
 authors: Cambronero, M. Emilia and Martínez, Miguel A. and Llana, Luis and Rodríguez, Ricardo J. and Russo, Alejandro
-category: ok
+category: unrelated
 display: cambronero (Towards a GDPR-compliant cloud architecture with data privacy controlled through sticky policies)
-due: The paper proposes a UML-based approach for cloud data tracking and privacy using sticky policies, which can be compared against other data provenance models.
+due: The paper proposes a UML-based approach for cloud data tracking and privacy using sticky policies, which can be compared against other data provenance models. However, it does not improve the semantic model or
 entrytype: article
 link: https://peerj.com/articles/cs-1898.pdf
 name: Towards a GDPR-compliant cloud architecture with data privacy controlled through sticky policies
@@ -17,6 +17,7 @@ related:
   - GDPR compliance
   - cloud architecture
   - data tracking
+  - Implementation
 year: "2024"
 forward_steps: 2
 ---

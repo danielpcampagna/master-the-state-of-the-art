@@ -1,7 +1,7 @@
 ---
 ID: vanezi2024a
 authors: Vanezi, Evangelia; Kapitsaki, Georgia; Philippou, Anna
-category: ok
+category: unrelated
 due: |-
   The paper explicitly integrates GDPR "purpose limitation" into software requirements analysis, extending UML diagrams to include personal data usage and ownership, supporting formal compliance checks.
 

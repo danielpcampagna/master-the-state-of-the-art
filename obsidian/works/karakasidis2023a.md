@@ -1,10 +1,10 @@
 ---
 ID: karakasidis2023a
 authors: Karakasidis, Alexandros; Vassalos, Vassilios
-category: ok
+category: unrelated
 cluster_id: "117430"
 display: karakasidis (GDPR Compliant Neuroimage Data Sharing)
-due: This paper proposes GDPR-compliant workflows for neuroimage data sharing, ensuring privacy preservation.
+due: This paper do not propose a semantic model to address the GDPR compliance issues, but it proposes a set of GDPR-compliant workflows for neuroimage data sharing, ensuring privacy preservation.
 entrytype: conference
 link: https://doi.org/10.5220/0011743000003405
 name: On the Design of GDPR Compliant Workflows for Responsible Neuroimage Data Sharing
@@ -12,7 +12,8 @@ organization: Athens University of Economics & Business, University of Macedonia
 place: ICISSP 2023
 pp: 600--607
 provenance_related: true
-related: use GDPR, Privacy-Preserving Workflows
+related:
+  - use GDPR, Privacy-Preserving Workflows
 forward_steps: 2
 ---
 ### **Summary & Analysis**

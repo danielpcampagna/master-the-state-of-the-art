@@ -1,9 +1,9 @@
 ---
 ID: azeem2024a
 authors: Azeem, Muhammad Ilyas; Abualhaija, Sallam
-category: ok
+category: unrelated
 display: azeem (AI-enabled Completeness Checking of DPAs for GDPR Compliance)
-due: The paper proposes an AI-based solution for verifying the completeness of Data Processing Agreements (DPAs) against GDPR, making it relevant for data provenance modeling.
+due: The paper proposes an AI-based solution for verifying the completeness of Data Processing Agreements (DPAs) against GDPR, making it relevant for data provenance modeling. Since it does not introduce or extend previous semantic model in the literature, it does not match with our incluision criterias.
 entrytype: article
 link: https://doi.org/10.1007/s10664-024-10491-3
 name: A Multi-solution Study on GDPR AI-enabled Completeness Checking of DPAs

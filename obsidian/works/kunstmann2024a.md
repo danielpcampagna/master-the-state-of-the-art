@@ -1,10 +1,10 @@
 ---
 ID: kunstmann2024a
 authors: Kunstmann, Liliane; Pina, Débora; de Oliveira, Daniel; Mattoso, Marta
-category: ok
+category: unrelated
 cluster_id: "807402735392335088"
 display: kunstmann (Container-aware workflow provenance)
-due: The paper presents a provenance model integrating container and workflow traceability for reproducibility in HPC environments.
+due: The paper presents a provenance model integrating container and workflow traceability for reproducibility in HPC environments. Then, it has no relation with GDPR.
 entrytype: inproceedings
 link: ""
 name: "Scientific Workflows Deployment: Container Provenance in High-Performance Computing"
@@ -12,7 +12,8 @@ organization: Brazilian Symposium on Databases
 place: SBBD 2024
 pp: 457-470
 provenance_related: true
-related: workflow reproducibility, container-aware provenance
+related:
+  - workflow reproducibility, container-aware provenance
 forward_steps: 2
 ---
 

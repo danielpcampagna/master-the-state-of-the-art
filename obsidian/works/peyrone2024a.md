@@ -3,8 +3,11 @@ ID: peyrone2024a
 name: A Formal Model for Integrating Consent Management into MLOps
 authors: Neda Peyrone, Duangdao Wichadakul
 year: 2024
-category: ok
-due: The paper proposes a formal model for integrating consent management into MLOps, directly addressing GDPR compliance concerns. It introduces a consent management framework that tracks data subject rights, integrates privacy by design, and includes a structured approach for compliance monitoring.
+category: unrelated
+due: |-
+  This paper does not propose a semantic model, but a state machine model for compliance management addressed to MLOps. Additionally, it does not made publicly available the model yet shows part in the paper. Also, the requirements was based on the authors interpretation, bring subjectivity for the final model.
+
+  It demonstrate the feasibility of this model The paper proposes a formal model for integrating consent management into MLOps, directly addressing GDPR compliance concerns. It introduces a consent management framework that tracks data subject rights, integrates privacy by design, and includes a structured approach for compliance monitoring.
 forward_steps: 2
 ---
 

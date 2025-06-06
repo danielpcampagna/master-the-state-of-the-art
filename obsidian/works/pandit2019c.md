@@ -2,7 +2,7 @@
 ID: pandit2019creating
 authors: Pandit, Harshvardhan J and Polleres, Axel and Bos, Bert and Brennan, Rob and Bruegger, Bud and Ekaputra, Fajar J and Fernández, Javier D and Hamed, Roghaiyeh Gachpaz and Kiesling, Elmar and Lizar, Mark and others
 backward_steps: 1
-category: unrelated
+category: ok
 cluster_id: "9799703764205422827"
 display: DPV
 due: Not directly related to provenance. This approach provides a privacy vocabularies the GDPR. This vocabulari is make available under https://w3c.github.io/dpv/dpv/.

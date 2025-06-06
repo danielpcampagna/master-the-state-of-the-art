@@ -3,7 +3,7 @@ ID: alves2023a
 name: "Enabling Data Regulation Evaluation through\r Intelligent and Normative Multiagent Systems\r Design"
 authors: Paulo Henrique Alves, Fernando Correia, Isabella Frajhof, Clarisse Sieckenius de Souza, Helio Lopes
 year: 2023
-category: ok
+category: nofile
 due: The paper proposes a normative multiagent system for representing data protection rights and obligations, including GDPR compliance concerns. It explicitly presents a consent metamodel and discusses data agents’ decision-making processes, which are relevant to GDPR obligations.
 forward_steps: 2
 ---
